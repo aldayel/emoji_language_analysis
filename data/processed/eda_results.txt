@@ -1,0 +1,79 @@
+Emoji Usage Analysis Summary
+========================================
+
+1. Basic Statistics:
+Total Tweets Analyzed: 43,000
+Total Emojis Used: 120,411
+Unique Emojis Found: 1,179
+Average Emojis per Tweet: 2.80
+Median Emojis per Tweet: 2.0
+Maximum Emojis in a Single Tweet: 137
+
+2. Most Popular Emojis:
+   😂: 5,058 uses
+   😭: 4,461 uses
+   🤣: 4,390 uses
+   ❤: 3,513 uses
+   🔥: 3,123 uses
+   🙏: 2,528 uses
+   😍: 2,498 uses
+   ✅: 2,425 uses
+   🐣: 2,325 uses
+   🐰: 2,318 uses
+
+3. Emoji Count Distribution:
+   1 emoji: 18,239 tweets
+   2 emojis: 9,133 tweets
+   3 emojis: 6,087 tweets
+   4 emojis: 3,305 tweets
+   5 emojis: 1,941 tweets
+   ...
+
+4. Top Emoji Pairs:
+   🖕 + 🖕: 30,499 occurrences
+   🤣 + 🤣: 15,985 occurrences
+   😂 + 😂: 10,063 occurrences
+   😭 + 😭: 5,457 occurrences
+   ⁉ + ⁉: 4,761 occurrences
+   😡 + 😡: 4,640 occurrences
+   ✅ + ✅: 3,618 occurrences
+   🔥 + 🔥: 3,261 occurrences
+   🕯 + 🕯: 3,161 occurrences
+   😍 + 😍: 3,047 occurrences
+
+5. Word Association Highlights:
+
+   😳 commonly appears with:
+      - you (32 times)
+      - the (24 times)
+      - i (22 times)
+      - your (17 times)
+      - to (15 times)
+
+   🔮 commonly appears with:
+      - this (5 times)
+      - in (4 times)
+      - to (4 times)
+      - my (4 times)
+      - tour (3 times)
+
+   👉 commonly appears with:
+      - now (220 times)
+      - the (114 times)
+      - shop (112 times)
+      - live (94 times)
+      - to (93 times)
+
+   🚀 commonly appears with:
+      - the (25 times)
+      - this (25 times)
+      - to (20 times)
+      - world (17 times)
+      - frfr (17 times)
+
+   👈 commonly appears with:
+      - the (24 times)
+      - you (18 times)
+      - i (16 times)
+      - it (16 times)
+      - me (15 times)

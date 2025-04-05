@@ -1,0 +1,34 @@
+Sentiment Analysis Summary
+========================================
+
+1. Overall Sentiment Distribution:
+
+VADER Sentiment:
+- Positive: 27,641 (64.3%)
+- Negative: 8,753 (20.4%)
+- Neutral: 6,606 (15.4%)
+
+TextBlob Sentiment:
+- Positive: 20,898 (48.6%)
+- Neutral: 16,282 (37.9%)
+- Negative: 5,820 (13.5%)
+
+2. Emoji Sentiment Patterns:
+
+Most Positive Emojis:
+- 🎁: 100.0% positive sentiment
+- ▶: 100.0% positive sentiment
+- 😚: 100.0% positive sentiment
+- 😙: 100.0% positive sentiment
+- 🎭: 100.0% positive sentiment
+
+Most Negative Emojis:
+- 🤥: 90.0% negative sentiment
+- 🔞: 88.9% negative sentiment
+- 😰: 88.2% negative sentiment
+- 😨: 87.9% negative sentiment
+- 💢: 86.7% negative sentiment
+
+3. Emoji Count Patterns:
+- Tweets with 37 emojis show the highest average sentiment
+  (VADER score: 0.947,    TextBlob score: 0.159)

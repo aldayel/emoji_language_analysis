@@ -1,0 +1,8144 @@
+=== Detailed Language Analysis Results ===
+
+Top 10 Emoji Pairs:
+- 😂 + 😂: 2148 occurrences
+- 🤣 + 🤣: 2083 occurrences
+- 😭 + 😭: 1911 occurrences
+- 🖕 + 🖕: 1321 occurrences
+- ✅ + ✅: 1067 occurrences
+
+Top Words by Emoji:
+
+Emoji 😳:
+- grounds: 22
+- see: 21
+- one: 19
+- easter: 18
+- get: 17
+
+Emoji 🔮:
+- day: 10
+- 26: 9
+- 27: 9
+- 28: 9
+- trading: 8
+
+Emoji 👉:
+- check: 204
+- live: 202
+- amp: 184
+- 2: 155
+- starting: 154
+
+Emoji 🚀:
+- let: 27
+- whitelist: 26
+- eth: 25
+- 0: 25
+- join: 25
+
+Emoji 👈:
+- get: 27
+- love: 19
+- one: 16
+- like: 14
+- time: 11
+
+Emoji 😁:
+- happy: 63
+- easter: 59
+- good: 50
+- love: 39
+- amp: 36
+
+Emoji 🏃:
+- rank: 11
+- love: 10
+- one: 9
+- 1: 8
+- run: 7
+
+Emoji ♀:
+- thank: 44
+- amp: 41
+- like: 34
+- easter: 32
+- supporting: 31
+
+Emoji 🤡:
+- people: 121
+- like: 119
+- get: 100
+- go: 90
+- one: 85
+
+Emoji 🌅:
+- day: 9
+- morning: 6
+- dear: 6
+- easter: 6
+- good: 5
+
+Emoji 🏖:
+- beach: 5
+- summer: 4
+- win: 4
+- make: 3
+- take: 3
+
+Emoji 😎:
+- easter: 92
+- happy: 83
+- get: 78
+- like: 74
+- good: 64
+
+Emoji 👇:
+- amp: 68
+- like: 50
+- follow: 34
+- 1: 33
+- link: 33
+
+Emoji 👀:
+- like: 106
+- see: 91
+- get: 78
+- one: 78
+- new: 76
+
+Emoji 📷:
+- n: 12
+- think: 12
+- telegram: 12
+- 2: 10
+- share: 9
+
+Emoji 🏝:
+- beach: 6
+- pictures: 6
+- rt: 3
+- good: 3
+- sunday: 3
+
+Emoji 🖼:
+- morning: 3
+- art: 3
+- gt: 3
+- hunt: 3
+- good: 2
+
+Emoji 😮:
+- yes: 19
+- love: 16
+- never: 14
+- got: 12
+- beautiful: 12
+
+Emoji 🐰:
+- easter: 2138
+- happy: 1549
+- day: 332
+- everyone: 245
+- hope: 206
+
+Emoji 💐:
+- easter: 179
+- happy: 162
+- day: 35
+- hope: 33
+- amp: 32
+
+Emoji 🚨:
+- easter: 32
+- like: 28
+- 2: 28
+- follow: 24
+- amp: 23
+
+Emoji 🏞:
+- 0: 5
+- 2: 4
+- thank: 2
+- time: 2
+- morning: 2
+
+Emoji 🏡:
+- home: 8
+- 0: 5
+- amp: 4
+- 2: 4
+- miss: 3
+
+Emoji 💰:
+- usdt: 88
+- denet: 78
+- like: 72
+- amp: 70
+- follow: 66
+
+Emoji 😍:
+- love: 358
+- super: 246
+- easter: 161
+- happy: 156
+- beautiful: 155
+
+Emoji ❤:
+- happy: 726
+- easter: 653
+- love: 643
+- thank: 336
+- day: 331
+
+Emoji ❣:
+- happy: 15
+- easter: 11
+- world: 11
+- amp: 9
+- gt: 9
+
+Emoji 🪄:
+- magic: 3
+- see: 3
+- military: 2
+- beauty: 2
+- world: 2
+
+Emoji 💯:
+- amp: 53
+- easter: 43
+- happy: 41
+- like: 36
+- follow: 31
+
+Emoji 🔥:
+- whopper: 342
+- 2: 210
+- amp: 208
+- like: 201
+- love: 197
+
+Emoji 🎬:
+- april: 6
+- 2023: 4
+- 𝙇𝙄𝙑𝙀: 4
+- 𝙇𝙞𝙣𝙠: 4
+- movie: 3
+
+Emoji 🍑:
+- peaches: 30
+- like: 8
+- bowser: 6
+- says: 6
+- amp: 5
+
+Emoji 📝:
+- race: 6
+- report: 4
+- 1: 4
+- go: 4
+- ver: 4
+
+Emoji 🤖:
+- app: 15
+- deadpan: 9
+- busy: 6
+- ha: 6
+- lies: 6
+
+Emoji 📚:
+- good: 10
+- black: 8
+- afrikan: 8
+- consciousness: 8
+- new: 7
+
+Emoji 🎨:
+- easter: 29
+- happy: 17
+- art: 11
+- 2: 10
+- amp: 9
+
+Emoji 🎥:
+- live: 8
+- new: 7
+- horror: 7
+- movie: 7
+- record: 6
+
+Emoji 🧐:
+- easter: 10
+- yes: 9
+- people: 8
+- good: 7
+- want: 7
+
+Emoji 🔁:
+- follow: 7
+- 1: 7
+- retweet: 6
+- 3: 5
+- 2: 4
+
+Emoji 📬:
+- hop: 2
+- easter: 2
+- warriors: 1
+- skipper: 1
+- ruled: 1
+
+Emoji ❓:
+- leg: 12
+- easter: 9
+- must: 8
+- 2: 7
+- amp: 6
+
+Emoji ⚽:
+- win: 21
+- 4: 15
+- 2: 12
+- today: 11
+- 1: 11
+
+Emoji 🎇:
+- v: 4
+- sir: 4
+- luck: 4
+- 2023: 4
+- wish: 3
+
+Emoji 🙋:
+- good: 14
+- morning: 9
+- u: 7
+- day: 7
+- v: 5
+
+Emoji ♂:
+- like: 33
+- easter: 27
+- amp: 24
+- get: 23
+- happy: 21
+
+Emoji 🍒:
+- amp: 6
+- w: 5
+- dm: 5
+- get: 5
+- congratulations: 4
+
+Emoji 🎁:
+- happy: 88
+- birthday: 69
+- amp: 41
+- easter: 36
+- day: 26
+
+Emoji 🎈:
+- birthday: 89
+- happy: 84
+- day: 35
+- hope: 22
+- easter: 14
+
+Emoji 🎄:
+- rock: 4
+- songs: 4
+- follow: 2
+- like: 2
+- dmm: 2
+
+Emoji 🎱:
+- follow: 2
+- congratulations: 1
+- 5000: 1
+- spins: 1
+- earn: 1
+
+Emoji 🧿:
+- core: 21
+- code: 21
+- 120: 14
+- cake: 14
+- refer: 14
+
+Emoji 🎯:
+- crazy: 13
+- deal: 12
+- miss: 12
+- sale: 12
+- shop: 12
+
+Emoji 🤩:
+- love: 42
+- happy: 41
+- easter: 38
+- day: 27
+- good: 24
+
+Emoji ☺:
+- thank: 127
+- good: 110
+- happy: 108
+- day: 106
+- love: 85
+
+Emoji ✅:
+- amp: 676
+- usdt: 541
+- like: 433
+- follow: 425
+- denet: 411
+
+Emoji 💖:
+- happy: 124
+- easter: 119
+- love: 77
+- thank: 77
+- day: 56
+
+Emoji 😆:
+- good: 26
+- easter: 23
+- like: 22
+- happy: 20
+- thank: 19
+
+Emoji 🥳:
+- happy: 379
+- birthday: 306
+- day: 162
+- easter: 118
+- amp: 113
+
+Emoji 🥰:
+- happy: 309
+- easter: 297
+- love: 237
+- thank: 198
+- day: 131
+
+Emoji 🤣:
+- like: 334
+- still: 237
+- get: 226
+- one: 225
+- know: 196
+
+Emoji 😂:
+- like: 441
+- one: 246
+- get: 221
+- even: 216
+- know: 212
+
+Emoji 🥺:
+- love: 82
+- like: 52
+- much: 51
+- please: 38
+- thank: 36
+
+Emoji 💥:
+- boom: 30
+- today: 26
+- 1: 24
+- 5: 24
+- one: 23
+
+Emoji 📉:
+- 99: 4
+- amp: 3
+- hue: 2
+- smart: 2
+- average: 2
+
+Emoji 📦:
+- amp: 8
+- item: 8
+- 1: 6
+- delivery: 6
+- today: 5
+
+Emoji 🔗:
+- streaming: 63
+- chain: 58
+- golden: 57
+- hour: 57
+- tag: 48
+
+Emoji 📸:
+- easter: 17
+- amp: 9
+- happy: 9
+- today: 9
+- love: 9
+
+Emoji 👍:
+- good: 175
+- like: 149
+- easter: 105
+- great: 103
+- one: 102
+
+Emoji 🏽:
+- happy: 85
+- easter: 81
+- amp: 52
+- love: 37
+- u: 29
+
+Emoji ➡:
+- amp: 22
+- 2: 14
+- follow: 12
+- click: 9
+- available: 9
+
+Emoji 🗓:
+- april: 25
+- 00: 9
+- whitelist: 8
+- amp: 7
+- gleam: 7
+
+Emoji 🫰:
+- streaming: 6
+- song: 4
+- day: 3
+- happy: 3
+- good: 3
+
+Emoji ☠:
+- people: 11
+- good: 11
+- snakes: 8
+- gt: 6
+- amp: 5
+
+Emoji 👊:
+- glory: 20
+- heroes: 17
+- stay: 14
+- amp: 12
+- back: 11
+
+Emoji 🥂:
+- happy: 26
+- birthday: 17
+- easter: 16
+- day: 16
+- love: 12
+
+Emoji 📓:
+- link: 2
+- latin: 1
+- women: 1
+- facial: 1
+- skincare: 1
+
+Emoji 💠:
+- robostopia: 9
+- 24h: 9
+- feature: 6
+- pro: 6
+- coin: 6
+
+Emoji 🔅:
+- link: 4
+- 2: 3
+- latin: 2
+- women: 2
+- facial: 2
+
+Emoji 👨:
+- 0: 18
+- 2: 17
+- amp: 15
+- chef: 13
+- cooking: 12
+
+Emoji 🎓:
+- link: 4
+- latin: 2
+- women: 2
+- facial: 2
+- skincare: 2
+
+Emoji ‼:
+- rnb: 100
+- haters: 100
+- anak: 100
+- alay: 100
+- 1: 38
+
+Emoji 🎤:
+- love: 7
+- 生放送: 6
+- live: 6
+- day: 6
+- need: 5
+
+Emoji ▶:
+- 0: 9
+- hot: 7
+- 生放送: 6
+- bitсh: 6
+- msg: 6
+
+Emoji 🤷:
+- like: 31
+- amp: 26
+- know: 18
+- get: 17
+- time: 16
+
+Emoji 😉:
+- easter: 113
+- happy: 99
+- like: 93
+- good: 86
+- one: 80
+
+Emoji 🥴:
+- like: 11
+- one: 8
+- today: 7
+- want: 7
+- get: 6
+
+Emoji ⁉:
+- 15: 98
+- year: 98
+- decade: 98
+- boys: 98
+- book: 4
+
+Emoji 👌:
+- love: 26
+- easter: 14
+- look: 13
+- great: 12
+- well: 12
+
+Emoji ⏩:
+- fast: 5
+- break: 4
+- ramadan: 4
+- вitсh: 3
+- уоu: 3
+
+Emoji ✔:
+- amp: 161
+- done: 120
+- 2: 112
+- day: 104
+- dm: 102
+
+Emoji 😭:
+- like: 485
+- one: 213
+- even: 187
+- im: 182
+- love: 181
+
+Emoji 😊:
+- happy: 143
+- easter: 122
+- good: 80
+- day: 75
+- thank: 58
+
+Emoji 🙌:
+- happy: 51
+- easter: 46
+- day: 32
+- thank: 31
+- good: 30
+
+Emoji 👑:
+- boss: 24
+- easter: 22
+- happy: 21
+- amp: 20
+- day: 20
+
+Emoji 👽:
+- amp: 6
+- would: 5
+- even: 4
+- alien: 3
+- life: 3
+
+Emoji 💪:
+- easter: 33
+- love: 27
+- best: 27
+- already: 25
+- day: 25
+
+Emoji 🫡:
+- one: 54
+- thank: 53
+- like: 50
+- good: 46
+- gm: 46
+
+Emoji 🌷:
+- easter: 385
+- happy: 286
+- day: 97
+- love: 68
+- filled: 58
+
+Emoji 😼:
+- yes: 9
+- said: 4
+- love: 3
+- bias: 3
+- fav: 3
+
+Emoji 😻:
+- love: 19
+- happy: 17
+- easter: 14
+- well: 12
+- like: 11
+
+Emoji 💩:
+- people: 117
+- amp: 101
+- like: 101
+- get: 89
+- full: 68
+
+Emoji 💃:
+- happy: 23
+- easter: 14
+- christ: 12
+- amp: 10
+- giving: 10
+
+Emoji 🎉:
+- happy: 538
+- birthday: 337
+- easter: 230
+- day: 220
+- congratulations: 186
+
+Emoji 🕺:
+- happy: 21
+- great: 16
+- easter: 14
+- morning: 14
+- sunday: 13
+
+Emoji 🎟:
+- tickets: 9
+- amp: 8
+- easter: 5
+- see: 4
+- going: 3
+
+Emoji 📢:
+- amp: 15
+- usdt: 8
+- 2: 7
+- need: 7
+- announcement: 6
+
+Emoji 🤙:
+- easter: 7
+- good: 5
+- get: 4
+- love: 4
+- u: 4
+
+Emoji 🍿:
+- movie: 7
+- horror: 4
+- new: 4
+- coming: 3
+- check: 3
+
+Emoji ☑:
+- day: 20
+- daily: 12
+- spend: 9
+- 3: 7
+- amp: 6
+
+Emoji 🔴:
+- live: 47
+- watch: 21
+- vs: 13
+- 38: 11
+- 1: 11
+
+Emoji 💫:
+- happy: 21
+- one: 20
+- amp: 20
+- love: 19
+- good: 16
+
+Emoji 💎:
+- happy: 12
+- easter: 11
+- love: 11
+- like: 10
+- good: 10
+
+Emoji ✨:
+- happy: 193
+- easter: 167
+- love: 131
+- amp: 121
+- day: 103
+
+Emoji 😺:
+- day: 5
+- easter: 4
+- know: 3
+- happy: 3
+- hopefully: 3
+
+Emoji 🍬:
+- easter: 54
+- happy: 35
+- family: 10
+- may: 9
+- love: 9
+
+Emoji 🏉:
+- vs: 5
+- easter: 3
+- way: 3
+- 00pm: 2
+- leeds: 2
+
+Emoji 🍔:
+- whopper: 72
+- rule: 24
+- 2: 14
+- double: 14
+- way: 13
+
+Emoji 📺:
+- live: 11
+- watch: 8
+- amp: 6
+- free: 5
+- online: 4
+
+Emoji 🥊:
+- live: 20
+- free: 12
+- online: 11
+- vs: 9
+- link: 9
+
+Emoji 🆚:
+- live: 9
+- online: 8
+- free: 8
+- watch: 5
+- boxing: 4
+
+Emoji 💉:
+- 2: 13
+- amp: 12
+- love: 8
+- happy: 7
+- welcome: 6
+
+Emoji 💭:
+- dreams: 7
+- u: 6
+- made: 6
+- day: 4
+- easter: 4
+
+Emoji 🤔:
+- like: 126
+- one: 101
+- think: 100
+- would: 93
+- get: 80
+
+Emoji 📈:
+- 5: 7
+- new: 6
+- 0: 5
+- another: 5
+- trading: 4
+
+Emoji 🕐:
+- week: 2
+- hours: 2
+- days: 2
+- apply: 2
+- december: 1
+
+Emoji 🫀:
+- gurrrll: 4
+- surely: 4
+- talk: 4
+- abt: 4
+- lot: 4
+
+Emoji ⏳:
+- amp: 9
+- tag: 8
+- follow: 7
+- get: 5
+- like: 5
+
+Emoji 🏆:
+- usdt: 174
+- denet: 137
+- amp: 123
+- rt: 115
+- follow: 114
+
+Emoji 😈:
+- love: 13
+- yes: 10
+- like: 10
+- times: 10
+- tho: 10
+
+Emoji 🔵:
+- game: 6
+- today: 5
+- amp: 4
+- 2: 4
+- play: 4
+
+Emoji ⚪:
+- day: 8
+- 3: 7
+- everyone: 7
+- game: 6
+- ayo: 5
+
+Emoji 🫄:
+- cbc: 2
+- woke: 1
+- really: 1
+- believe: 1
+- even: 1
+
+Emoji ✈:
+- glory: 10
+- amp: 9
+- heroes: 9
+- stay: 8
+- 00: 6
+
+Emoji 🎶:
+- good: 40
+- happy: 36
+- love: 36
+- easter: 34
+- music: 31
+
+Emoji 🍀:
+- 3: 43
+- 4: 37
+- 2: 34
+- gt: 32
+- 5: 31
+
+Emoji 💚:
+- easter: 91
+- happy: 82
+- love: 45
+- good: 38
+- amp: 36
+
+Emoji 🔸:
+- follow: 15
+- art: 15
+- sunday: 10
+- 3: 10
+- rt: 10
+
+Emoji 📩:
+- dm: 12
+- solo: 9
+- shared: 9
+- work: 7
+- send: 7
+
+Emoji 🤝:
+- 2: 17
+- 3: 12
+- happy: 12
+- thank: 12
+- 5: 9
+
+Emoji 💋:
+- happy: 31
+- easter: 29
+- love: 17
+- amp: 16
+- day: 12
+
+Emoji 💗:
+- happy: 74
+- love: 64
+- easter: 54
+- thank: 33
+- day: 29
+
+Emoji 😘:
+- love: 162
+- happy: 135
+- easter: 119
+- know: 82
+- day: 79
+
+Emoji 😚:
+- thinking: 8
+- abt: 8
+- love: 7
+- one: 7
+- always: 6
+
+Emoji 😀:
+- easter: 23
+- happy: 18
+- good: 16
+- enjoy: 11
+- thank: 10
+
+Emoji 🌬:
+- thank: 3
+- amp: 2
+- scott: 2
+- great: 2
+- gift: 2
+
+Emoji 🍆:
+- attack: 6
+- big: 4
+- distance: 4
+- usa: 3
+- wastes: 3
+
+Emoji 😅:
+- like: 143
+- time: 99
+- get: 94
+- know: 76
+- love: 68
+
+Emoji 🙇:
+- thank: 9
+- account: 6
+- much: 6
+- chocolate: 6
+- must: 5
+
+Emoji 📹:
+- br: 3
+- happy: 2
+- easter: 2
+- yashasvi: 1
+- jaiswal: 1
+
+Emoji ⚡:
+- people: 31
+- prcs: 30
+- gt: 16
+- rejecting: 15
+- science: 15
+
+Emoji 🫶:
+- happy: 85
+- love: 64
+- easter: 62
+- thank: 56
+- day: 54
+
+Emoji 😙:
+- angel: 5
+- said: 4
+- happy: 3
+- love: 3
+- gonna: 3
+
+Emoji 😄:
+- eggs: 20
+- easter: 14
+- thank: 11
+- like: 11
+- happy: 10
+
+Emoji ⛳:
+- rahm: 11
+- live: 9
+- masters: 8
+- golf: 7
+- 2: 6
+
+Emoji 🙄:
+- get: 33
+- like: 31
+- one: 22
+- people: 20
+- amp: 15
+
+Emoji 🚮:
+- mxm: 4
+- gk: 4
+- please: 3
+- get: 3
+- like: 2
+
+Emoji 🖌:
+- easter: 13
+- happy: 10
+- amp: 6
+- 2: 6
+- beautiful: 5
+
+Emoji 🤠:
+- amp: 7
+- 2: 4
+- 1: 4
+- today: 3
+- day: 3
+
+Emoji ⭐:
+- love: 22
+- 5: 20
+- 3: 18
+- 2: 17
+- gt: 17
+
+Emoji 🆘:
+- amp: 16
+- need: 14
+- please: 12
+- us: 8
+- help: 7
+
+Emoji 🐝:
+- one: 5
+- bees: 4
+- ate: 4
+- ghost: 3
+- best: 3
+
+Emoji 📶:
+- odds: 7
+- 5: 5
+- 2: 5
+- 1: 4
+- corners: 3
+
+Emoji 🤦:
+- like: 26
+- get: 21
+- amp: 20
+- people: 15
+- one: 15
+
+Emoji 🖱:
+- podcast: 2
+- struggling: 1
+- making: 1
+- decisions: 1
+- especially: 1
+
+Emoji 📎:
+- day: 7
+- ive: 4
+- join: 3
+- twitter: 3
+- ig: 3
+
+Emoji ▪:
+- camberos: 18
+- amp: 14
+- day: 12
+- 26: 12
+- 27: 12
+
+Emoji 🥹:
+- love: 135
+- like: 119
+- much: 108
+- thank: 108
+- happy: 81
+
+Emoji 💅:
+- love: 5
+- baby: 4
+- take: 3
+- queen: 3
+- look: 3
+
+Emoji 🤪:
+- happy: 15
+- massage: 14
+- like: 13
+- sure: 12
+- one: 11
+
+Emoji 🎙:
+- amp: 8
+- great: 4
+- episode: 4
+- community: 4
+- come: 4
+
+Emoji 🍪:
+- cookie: 8
+- 2: 5
+- 0: 5
+- eating: 4
+- get: 4
+
+Emoji 😖:
+- ive: 8
+- like: 7
+- away: 5
+- birthday: 5
+- really: 4
+
+Emoji 🎭:
+- amp: 12
+- usdt: 10
+- toss: 8
+- bangalore: 8
+- winner: 6
+
+Emoji 🖋:
+- reacts: 1
+- calling: 1
+- next: 1
+- superstar: 1
+- hands: 1
+
+Emoji 🍕:
+- panthers: 10
+- win: 10
+- 42: 10
+- 31: 10
+- 7: 10
+
+Emoji 💙:
+- easter: 152
+- happy: 150
+- love: 84
+- good: 71
+- day: 65
+
+Emoji 🌹:
+- happy: 70
+- easter: 70
+- love: 58
+- day: 37
+- beautiful: 36
+
+Emoji 💞:
+- easter: 49
+- love: 40
+- happy: 36
+- thank: 30
+- amp: 21
+
+Emoji 💝:
+- easter: 25
+- happy: 23
+- love: 13
+- thank: 13
+- day: 10
+
+Emoji ☕:
+- morning: 141
+- good: 128
+- gm: 126
+- happy: 104
+- day: 101
+
+Emoji 🫠:
+- like: 106
+- one: 85
+- get: 58
+- time: 56
+- want: 46
+
+Emoji 💻:
+- amp: 8
+- check: 4
+- tech: 4
+- today: 4
+- easter: 4
+
+Emoji 🔬:
+- f5: 3
+- 5: 3
+- 4: 2
+- 0: 2
+- take: 2
+
+Emoji ⏰:
+- amp: 15
+- like: 13
+- rt: 13
+- follow: 12
+- 1: 12
+
+Emoji 💿:
+- get: 4
+- name: 4
+- means: 4
+- album: 3
+- call: 3
+
+Emoji 📲:
+- 𝐋𝐈𝐕𝐄: 60
+- link: 60
+- live: 36
+- vs: 32
+- liverpool: 30
+
+Emoji 🤯:
+- people: 38
+- always: 36
+- realize: 28
+- main: 28
+- character: 28
+
+Emoji 😱:
+- know: 19
+- oh: 18
+- like: 17
+- omg: 15
+- people: 14
+
+Emoji 🥚:
+- easter: 1250
+- happy: 857
+- eggs: 252
+- egg: 238
+- day: 202
+
+Emoji 🌎:
+- amp: 14
+- world: 10
+- happy: 9
+- easter: 8
+- people: 8
+
+Emoji 🙏:
+- easter: 457
+- thank: 412
+- happy: 408
+- god: 267
+- please: 254
+
+Emoji 🤗:
+- happy: 137
+- good: 127
+- easter: 122
+- love: 107
+- first: 99
+
+Emoji 😛:
+- love: 47
+- always: 27
+- day: 25
+- big: 24
+- want: 23
+
+Emoji ⚒:
+- next: 6
+- think: 5
+- arsenal: 5
+- weekend: 5
+- say: 5
+
+Emoji 🐣:
+- easter: 2158
+- happy: 1707
+- day: 319
+- hope: 245
+- everyone: 222
+
+Emoji 🍫:
+- easter: 187
+- happy: 126
+- chocolate: 49
+- day: 39
+- everyone: 34
+
+Emoji 🎵:
+- want: 13
+- supports: 10
+- across: 10
+- click: 10
+- listen: 9
+
+Emoji 👏:
+- happy: 41
+- congratulations: 40
+- amp: 37
+- game: 35
+- easter: 31
+
+Emoji 🏻:
+- happy: 122
+- easter: 112
+- love: 94
+- day: 62
+- amp: 61
+
+Emoji 🕒:
+- premier: 1
+- league: 1
+- match: 1
+- day: 1
+- 30: 1
+
+Emoji 🟥:
+- premier: 1
+- league: 1
+- match: 1
+- day: 1
+- 30: 1
+
+Emoji ⬛:
+- 6: 33
+- 659: 24
+- 4: 19
+- streak: 19
+- 2: 19
+
+Emoji 🔺:
+- рussу: 3
+- wish: 3
+- lеwd: 3
+- tаlk: 3
+- messаge: 3
+
+Emoji 🤮:
+- day: 15
+- heads: 15
+- amp: 13
+- get: 12
+- complete: 11
+
+Emoji 🏠:
+- gt: 72
+- 3: 68
+- 4: 66
+- 2: 62
+- 5: 58
+
+Emoji 🌟:
+- 1: 33
+- voto: 28
+- easter: 22
+- happy: 18
+- retweet: 17
+
+Emoji 🌳:
+- gt: 7
+- left: 6
+- 2: 6
+- 1: 5
+- 0: 5
+
+Emoji ♥:
+- happy: 64
+- easter: 49
+- love: 48
+- thank: 47
+- amp: 36
+
+Emoji 🙂:
+- easter: 20
+- happy: 16
+- day: 11
+- hope: 10
+- get: 8
+
+Emoji 🍾:
+- happy: 23
+- thank: 19
+- everyone: 14
+- congratulations: 14
+- day: 14
+
+Emoji 🦉:
+- happy: 4
+- easter: 3
+- good: 3
+- looking: 2
+- miss: 2
+
+Emoji 🦆:
+- ipl: 12
+- dog: 8
+- india: 8
+- wc: 8
+- perfect: 4
+
+Emoji 🤬:
+- another: 23
+- drag: 21
+- amp: 20
+- easter: 20
+- people: 19
+
+Emoji 😹:
+- even: 11
+- win: 8
+- happy: 8
+- day: 8
+- brilliant: 8
+
+Emoji 🌿:
+- easter: 21
+- happy: 20
+- time: 9
+- nft: 8
+- gift: 8
+
+Emoji 💜:
+- happy: 190
+- easter: 164
+- love: 111
+- thank: 70
+- much: 69
+
+Emoji 🌸:
+- easter: 169
+- happy: 129
+- day: 59
+- love: 48
+- good: 26
+
+Emoji 🛍:
+- temu: 24
+- cash: 23
+- shopping: 20
+- get: 15
+- app: 11
+
+Emoji 🦎:
+- like: 3
+- yessssssssssss: 3
+- still: 3
+- symbolism: 3
+- owl: 3
+
+Emoji 🏈:
+- clive: 9
+- great: 8
+- birthday: 7
+- 80th: 6
+- brother: 6
+
+Emoji ©:
+- easter: 3
+- beyond: 2
+- live: 2
+- day: 2
+- ujcf: 2
+
+Emoji 🫂:
+- amp: 30
+- love: 28
+- happy: 27
+- thank: 24
+- easter: 23
+
+Emoji 🔙:
+- time: 3
+- id: 2
+- note: 2
+- must: 2
+- follow: 2
+
+Emoji 🐇:
+- easter: 1472
+- happy: 1160
+- day: 224
+- everyone: 152
+- hope: 136
+
+Emoji 🦋:
+- easter: 23
+- happy: 20
+- amp: 14
+- spring: 13
+- good: 10
+
+Emoji 🎧:
+- birthday: 7
+- amp: 7
+- day: 7
+- music: 6
+- live: 6
+
+Emoji 🔋:
+- uncommon: 3
+- suc: 3
+- time: 2
+- easter: 2
+- full: 2
+
+Emoji 🛡:
+- domain: 16
+- stark: 14
+- braavos: 11
+- go: 10
+- free: 9
+
+Emoji ⚔:
+- amp: 9
+- 9: 6
+- life: 6
+- 4: 5
+- back: 5
+
+Emoji 🍻:
+- happy: 16
+- day: 14
+- hope: 8
+- 2: 6
+- easter: 6
+
+Emoji 📌:
+- amp: 18
+- art: 15
+- rt: 11
+- prize: 10
+- read: 9
+
+Emoji 🏿:
+- god: 12
+- easter: 10
+- happy: 9
+- bless: 8
+- get: 8
+
+Emoji 😤:
+- like: 95
+- one: 87
+- im: 75
+- get: 73
+- time: 63
+
+Emoji 🔛:
+- follow: 4
+- live: 3
+- right: 3
+- paris: 2
+- roubaix: 2
+
+Emoji 👋:
+- easter: 35
+- happy: 22
+- good: 20
+- day: 17
+- morning: 13
+
+Emoji 🧵:
+- 3: 6
+- 1: 6
+- 2: 5
+- phone: 4
+- number: 4
+
+Emoji 🐯:
+- tiger: 3
+- bias: 3
+- fav: 3
+- post: 2
+- let: 2
+
+Emoji 📱:
+- hop: 3
+- easter: 3
+- w: 3
+- live: 3
+- help: 2
+
+Emoji 📨:
+- email: 2
+- sorry: 1
+- hear: 1
+- please: 1
+- report: 1
+
+Emoji ☘:
+- easter: 9
+- happy: 7
+- ready: 5
+- love: 4
+- charges: 4
+
+Emoji 👆:
+- amp: 8
+- available: 7
+- riyadh: 6
+- look: 5
+- 2: 5
+
+Emoji 🪖:
+- new: 1
+- man: 1
+- hair: 1
+- cut: 1
+- looking: 1
+
+Emoji 😗:
+- mean: 6
+- would: 4
+- time: 3
+- gt: 3
+- one: 2
+
+Emoji 🎆:
+- bogummy: 3
+- new: 2
+- easter: 2
+- fun: 2
+- watch: 2
+
+Emoji ⭕:
+- would: 5
+- watch: 4
+- join: 3
+- jeonghan: 3
+- jp: 3
+
+Emoji 🦝:
+- eggs: 4
+- tip: 2
+- love: 2
+- raccoons: 2
+- give: 2
+
+Emoji 🏄:
+- know: 4
+- delightful: 3
+- leisure: 3
+- surfing: 3
+- morocco: 3
+
+Emoji 🤑:
+- get: 16
+- join: 14
+- link: 11
+- odds: 11
+- free: 10
+
+Emoji 🦊:
+- follow: 45
+- nctzen: 36
+- spree: 36
+- reply: 18
+- nctmoots: 9
+
+Emoji 💛:
+- easter: 122
+- happy: 115
+- good: 44
+- love: 43
+- day: 39
+
+Emoji 🤞:
+- easter: 26
+- good: 20
+- happy: 20
+- joooni: 20
+- luck: 14
+
+Emoji 🏀:
+- get: 9
+- game: 9
+- easter: 7
+- players: 6
+- bulls: 6
+
+Emoji 🌻:
+- easter: 54
+- happy: 52
+- good: 25
+- day: 22
+- love: 20
+
+Emoji 🌞:
+- easter: 57
+- happy: 54
+- follow: 46
+- spree: 36
+- day: 35
+
+Emoji 🌏:
+- supports: 5
+- across: 5
+- click: 5
+- amp: 3
+- family: 3
+
+Emoji 🌍:
+- people: 13
+- amp: 12
+- prcs: 10
+- world: 9
+- power: 6
+
+Emoji 🆗:
+- notifications: 3
+- resolved: 2
+- follow: 2
+- turn: 2
+- 100: 2
+
+Emoji 🔨:
+- mining: 10
+- app: 6
+- new: 3
+- best: 3
+- 2023: 3
+
+Emoji 🏒:
+- win: 6
+- bruins: 6
+- record: 6
+- congrats: 5
+- new: 5
+
+Emoji 💢:
+- someone: 4
+- sends: 4
+- 10: 4
+- 000: 4
+- wallet: 4
+
+Emoji 🔪:
+- dishum: 6
+- easter: 5
+- people: 5
+- gt: 5
+- amp: 4
+
+Emoji 🏁:
+- dope: 9
+- day: 4
+- really: 4
+- easter: 3
+- rebel: 3
+
+Emoji 💸:
+- wts: 19
+- lfb: 18
+- order: 16
+- set: 15
+- dm: 15
+
+Emoji 🌐:
+- whitelist: 14
+- 0: 12
+- 11: 11
+- 00: 10
+- utc: 10
+
+Emoji ❗:
+- 2: 19
+- easter: 18
+- hey: 15
+- one: 13
+- everything: 13
+
+Emoji 🌈:
+- easter: 42
+- happy: 33
+- amp: 14
+- good: 13
+- morning: 12
+
+Emoji 📣:
+- comeback: 3
+- vote: 3
+- 1010101: 3
+- cryptocodenfts: 3
+- item: 3
+
+Emoji 🖍:
+- prices: 2
+- banks: 1
+- collapsing: 1
+- high: 1
+- interest: 1
+
+Emoji 🫣:
+- yes: 20
+- want: 9
+- love: 8
+- get: 7
+- like: 6
+
+Emoji 🏋:
+- yes: 3
+- gym: 2
+- give: 2
+- life: 2
+- best: 2
+
+Emoji ▫:
+- call: 3
+- open: 2
+- hello: 2
+- adriana: 2
+- feel: 2
+
+Emoji ☎:
+- open: 4
+- please: 3
+- home: 3
+- vote: 3
+- time: 2
+
+Emoji ♻:
+- win: 7
+- follow: 6
+- like: 5
+- giveaway: 4
+- retweet: 4
+
+Emoji 🕗:
+- time: 2
+- tezsup: 2
+- 8: 2
+- gain: 1
+- easter: 1
+
+Emoji 🐎:
+- gain: 5
+- redcar: 5
+- winner: 4
+- pair: 4
+- badges: 4
+
+Emoji 🧑:
+- whopper: 12
+- cooking: 10
+- waiting: 7
+- crazy: 6
+- still: 6
+
+Emoji 💼:
+- amp: 4
+- app: 3
+- free: 2
+- today: 2
+- games: 2
+
+Emoji 🟢:
+- free: 6
+- new: 6
+- day: 5
+- app: 4
+- santos: 4
+
+Emoji 🌺:
+- easter: 86
+- happy: 69
+- love: 31
+- day: 25
+- good: 17
+
+Emoji 🔫:
+- cuddle: 8
+- easter: 6
+- health: 6
+- happy: 4
+- mind: 4
+
+Emoji 🍎:
+- ios: 6
+- music: 4
+- 14: 4
+- 5: 3
+- android: 2
+
+Emoji 🧡:
+- happy: 48
+- easter: 43
+- love: 22
+- good: 21
+- day: 19
+
+Emoji 🌙:
+- moon: 7
+- good: 7
+- ramadan: 6
+- thank: 6
+- extra: 6
+
+Emoji 🕌:
+- ramadan: 3
+- prayer: 2
+- rugs: 2
+- break: 2
+- fast: 2
+
+Emoji 🚂:
+- 1: 3
+- 2: 2
+- reds: 2
+- 3: 2
+- day: 2
+
+Emoji 😔:
+- account: 16
+- yaallah: 14
+- closed: 14
+- dh: 14
+- tutup: 14
+
+Emoji ✌:
+- good: 36
+- love: 29
+- easter: 26
+- glory: 26
+- amp: 24
+
+Emoji 🍴:
+- happy: 4
+- day: 3
+- journey: 2
+- hope: 2
+- breakfast: 2
+
+Emoji 🍲:
+- food: 5
+- dinner: 4
+- oh: 3
+- maybe: 3
+- nice: 3
+
+Emoji 🎮:
+- easter: 5
+- one: 5
+- gaming: 4
+- love: 4
+- amp: 4
+
+Emoji 📅:
+- easter: 6
+- vs: 5
+- 1: 4
+- 8: 3
+- doll: 3
+
+Emoji 🔔:
+- usdt: 172
+- denet: 137
+- follow: 106
+- amp: 106
+- like: 106
+
+Emoji 🍳:
+- golden: 87
+- hour: 87
+- streaming: 86
+- chain: 69
+- qrt: 55
+
+Emoji 🤌:
+- good: 5
+- shit: 5
+- fuck: 5
+- people: 4
+- win: 4
+
+Emoji 😌:
+- see: 16
+- good: 15
+- like: 14
+- easter: 13
+- get: 13
+
+Emoji 🖕:
+- go: 557
+- like: 174
+- get: 124
+- ass: 106
+- fuck: 100
+
+Emoji ℹ:
+- ℹ: 4
+- network: 2
+- works: 2
+- african: 2
+- changes: 1
+
+Emoji 🐐:
+- amp: 11
+- happy: 11
+- goat: 10
+- easter: 9
+- good: 7
+
+Emoji 🚧:
+- network: 2
+- works: 2
+- rail: 1
+- carrying: 1
+- planned: 1
+
+Emoji 😜:
+- never: 14
+- innocent: 12
+- good: 10
+- love: 9
+- 1: 8
+
+Emoji 📊:
+- 2: 9
+- 8: 5
+- last: 5
+- 0: 5
+- financial: 4
+
+Emoji 🚪:
+- design: 8
+- door: 5
+- beautiful: 4
+- aluminium: 4
+- front: 4
+
+Emoji 🏴:
+- love: 11
+- easter: 9
+- would: 8
+- happy: 8
+- people: 7
+
+Emoji 🎺:
+- god: 7
+- 2: 6
+- lord: 6
+- almighty: 6
+- written: 6
+
+Emoji 📍:
+- wts: 17
+- want: 14
+- pc: 13
+- nct: 12
+- jaemin: 12
+
+Emoji 🌛:
+- 3: 54
+- gt: 52
+- 6: 44
+- 2: 42
+- 5: 42
+
+Emoji 🗣:
+- amp: 22
+- want: 12
+- results: 11
+- say: 10
+- thank: 8
+
+Emoji 🐺:
+- easter: 6
+- happy: 5
+- sunday: 4
+- gt: 4
+- could: 4
+
+Emoji 🏌:
+- golf: 4
+- hole: 4
+- live: 3
+- 8: 3
+- 6: 3
+
+Emoji 😇:
+- good: 90
+- love: 79
+- amp: 74
+- day: 69
+- god: 62
+
+Emoji 🆕:
+- 0: 6
+- 2: 4
+- 3: 3
+- check: 3
+- festival: 2
+
+Emoji 🧭:
+- grow: 4
+- xplorer: 2
+- 30pm: 2
+- positive: 2
+- mindset: 2
+
+Emoji 🤓:
+- gt: 7
+- mean: 6
+- said: 5
+- happy: 4
+- political: 4
+
+Emoji 🤺:
+- 10: 10
+- potek: 6
+- scn: 6
+- might: 6
+- sue: 6
+
+Emoji 🏥:
+- escaping: 2
+- killer: 1
+- help: 1
+- last: 1
+- chance: 1
+
+Emoji 🌀:
+- silly: 6
+- talk: 6
+- fun: 6
+- gt: 6
+- higusy: 3
+
+Emoji 📃:
+- bid: 2
+- 3: 2
+- new: 1
+- submitted: 1
+- vault: 1
+
+Emoji 🟡:
+- puyo: 4
+- easter: 3
+- game: 3
+- amp: 3
+- miss: 3
+
+Emoji 📒:
+- 3: 2
+- wentz: 2
+- eagles: 2
+- 9: 2
+- life: 1
+
+Emoji ✍:
+- order: 6
+- mean: 6
+- shipping: 5
+- china: 4
+- please: 4
+
+Emoji 💕:
+- easter: 178
+- happy: 164
+- love: 101
+- thank: 96
+- day: 70
+
+Emoji 🦕:
+- wait: 1
+- tickets: 1
+- available: 1
+- much: 1
+- anticipated: 1
+
+Emoji 🦖:
+- live: 2
+- amp: 2
+- said: 2
+- 1: 2
+- day: 2
+
+Emoji 🦴:
+- english: 6
+- becky: 6
+- amp: 3
+- 000: 3
+- bones: 3
+
+Emoji 🚜:
+- wait: 1
+- tickets: 1
+- available: 1
+- much: 1
+- anticipated: 1
+
+Emoji 🗳:
+- vote: 8
+- 1: 8
+- dm: 8
+- mode: 8
+- reply: 7
+
+Emoji 🤤:
+- love: 22
+- one: 10
+- good: 8
+- much: 7
+- like: 7
+
+Emoji 🍩:
+- amp: 4
+- babe: 2
+- saturday: 2
+- sunday: 2
+- open: 2
+
+Emoji 🍌:
+- riyadh: 18
+- available: 18
+- massager: 9
+- russian: 9
+- arab: 9
+
+Emoji 💦:
+- riyadh: 24
+- available: 24
+- easter: 23
+- get: 20
+- u: 17
+
+Emoji 🦞:
+- easter: 2
+- happy: 1
+- let: 1
+- settle: 1
+- lunch: 1
+
+Emoji 🍖:
+- easter: 3
+- happy: 2
+- bbq: 2
+- amp: 2
+- let: 1
+
+Emoji 👂:
+- listen: 5
+- friend: 4
+- chart: 3
+- like: 2
+- sound: 2
+
+Emoji 🔊:
+- happy: 3
+- win: 2
+- new: 2
+- need: 2
+- course: 2
+
+Emoji 🖤:
+- happy: 43
+- good: 42
+- love: 38
+- easter: 35
+- much: 28
+
+Emoji 🧳:
+- create: 2
+- travel: 2
+- booking: 2
+- website: 2
+- wordpress: 2
+
+Emoji 🚍:
+- create: 2
+- travel: 2
+- booking: 2
+- website: 2
+- wordpress: 2
+
+Emoji 😋:
+- love: 91
+- good: 76
+- one: 73
+- like: 68
+- easter: 66
+
+Emoji 👎:
+- get: 14
+- 2: 8
+- arent: 8
+- funny: 8
+- course: 8
+
+Emoji 🐢:
+- festival: 8
+- little: 4
+- throwback: 4
+- cutest: 4
+- loggerhead: 4
+
+Emoji 🥱:
+- yes: 18
+- like: 6
+- way: 5
+- 4: 5
+- amp: 4
+
+Emoji 🥵:
+- hot: 113
+- like: 57
+- one: 56
+- good: 44
+- get: 42
+
+Emoji 🐶:
+- easter: 33
+- happy: 31
+- amp: 22
+- day: 12
+- hope: 12
+
+Emoji 🐾:
+- happy: 72
+- easter: 64
+- thank: 33
+- day: 24
+- amp: 24
+
+Emoji 👧:
+- 0: 10
+- 2: 8
+- 4: 5
+- w: 4
+- life: 4
+
+Emoji 🥸:
+- never: 3
+- percentage: 2
+- trump: 2
+- love: 2
+- get: 2
+
+Emoji 🕵:
+- power: 4
+- happy: 4
+- easter: 4
+- thank: 3
+- much: 3
+
+Emoji 🍺:
+- happy: 11
+- american: 9
+- beer: 7
+- butt: 6
+- yessssssssssss: 6
+
+Emoji 👩:
+- 0: 15
+- cook: 13
+- easter: 13
+- 2: 12
+- good: 11
+
+Emoji 💣:
+- go: 3
+- easter: 3
+- win: 3
+- bombers: 2
+- start: 2
+
+Emoji 🦅:
+- american: 6
+- happy: 5
+- thanks: 4
+- rat: 4
+- easter: 4
+
+Emoji ⬇:
+- amp: 22
+- link: 20
+- 5: 19
+- easter: 19
+- let: 15
+
+Emoji 🥈:
+- 1: 3
+- vote: 3
+- aaron: 3
+- 2: 2
+- 2023: 2
+
+Emoji 💷:
+- apply: 2
+- 2: 1
+- quid: 1
+- 9: 1
+- april: 1
+
+Emoji 🤟:
+- amp: 13
+- love: 9
+- easter: 8
+- good: 7
+- sunday: 6
+
+Emoji 🔍:
+- amp: 3
+- monkey: 3
+- grease: 3
+- happy: 3
+- easter: 3
+
+Emoji 🏎:
+- f1: 3
+- plus: 3
+- breach: 2
+- w: 2
+- life: 2
+
+Emoji 🙈:
+- big: 73
+- lips: 73
+- never: 62
+- 5: 58
+- innocent: 56
+
+Emoji 🔹:
+- wallet: 9
+- discover: 6
+- slavi: 6
+- airdrop: 6
+- animal: 6
+
+Emoji 🔒:
+- follow: 7
+- like: 6
+- dm: 5
+- one: 5
+- amp: 5
+
+Emoji 👫:
+- little: 2
+- could: 2
+- tiki: 2
+- jollibee: 1
+- jones: 1
+
+Emoji 🚫:
+- never: 19
+- innocent: 18
+- 3: 12
+- 4: 11
+- 2: 10
+
+Emoji ⬆:
+- hot: 20
+- new: 10
+- episode: 10
+- game: 10
+- show: 10
+
+Emoji 😩:
+- love: 29
+- like: 22
+- get: 19
+- one: 18
+- 1: 15
+
+Emoji 🚞:
+- duluth: 2
+- 7th: 1
+- av: 1
+- west: 1
+- incline: 1
+
+Emoji 🔞:
+- innocent: 64
+- never: 64
+- 10: 33
+- 5: 33
+- 15: 33
+
+Emoji 🌄:
+- happy: 10
+- easter: 9
+- good: 7
+- morning: 7
+- let: 4
+
+Emoji 🚶:
+- adventure: 2
+- trails: 2
+- dae: 2
+- anong: 2
+- sabi: 2
+
+Emoji 🔄:
+- nidhogg: 6
+- rage: 6
+- ex: 6
+- mine: 6
+- clear: 6
+
+Emoji ⌛:
+- social: 2
+- media: 2
+- vs: 2
+- csk: 2
+- highest: 2
+
+Emoji 🎦:
+- never: 2
+- focusing: 1
+- individuals: 1
+- enough: 1
+- relationships: 1
+
+Emoji 💓:
+- happy: 37
+- easter: 31
+- love: 21
+- amp: 20
+- riyadh: 12
+
+Emoji 😏:
+- like: 16
+- one: 14
+- easter: 14
+- get: 13
+- go: 12
+
+Emoji 🚚:
+- wts: 15
+- lfb: 11
+- ph: 9
+- set: 9
+- gcash: 9
+
+Emoji 🤍:
+- happy: 173
+- love: 122
+- thank: 104
+- good: 92
+- easter: 90
+
+Emoji 🏾:
+- happy: 59
+- easter: 57
+- day: 34
+- get: 33
+- u: 28
+
+Emoji 🥇:
+- 1: 7
+- 4: 6
+- best: 4
+- 30: 4
+- live: 4
+
+Emoji 🔜:
+- man: 4
+- spider: 4
+- views: 3
+- streaming: 3
+- everyone: 3
+
+Emoji 🎼:
+- music: 4
+- one: 3
+- 2: 3
+- happy: 3
+- small: 2
+
+Emoji 🎹:
+- peaches: 20
+- jazz: 6
+- like: 5
+- bowser: 4
+- says: 4
+
+Emoji ➕:
+- 1: 6
+- apparent: 6
+- defective: 6
+- abduction: 6
+- without: 6
+
+Emoji 💵:
+- 2: 13
+- dmm: 10
+- 1: 9
+- 0: 8
+- say: 7
+
+Emoji 💺:
+- wentz: 2
+- eagles: 2
+- first: 1
+- spot: 1
+- semifinals: 1
+
+Emoji 🧼:
+- dust: 4
+- life: 3
+- love: 3
+- created: 2
+- misery: 2
+
+Emoji ❌:
+- 5: 63
+- xbox: 57
+- 3: 56
+- 3ds: 56
+- ios: 54
+
+Emoji ⤵:
+- usdt: 143
+- denet: 112
+- amp: 89
+- rt: 87
+- follow: 85
+
+Emoji ⚠:
+- amp: 5
+- 0: 5
+- leg: 4
+- operation: 4
+- please: 4
+
+Emoji 🏷:
+- ph: 17
+- wts: 16
+- lfb: 15
+- dm: 14
+- payo: 10
+
+Emoji 🟠:
+- orange: 4
+- friday: 3
+- practice: 2
+- round: 2
+- looking: 2
+
+Emoji ⏱:
+- time: 3
+- 0: 2
+- 5: 1
+- egld: 1
+- rules: 1
+
+Emoji 🚑:
+- u: 4
+- first: 4
+- duke: 3
+- amp: 3
+- nigga: 3
+
+Emoji 🍊:
+- pc: 14
+- wts: 11
+- want: 10
+- amp: 10
+- nct: 8
+
+Emoji 🤜:
+- mikey: 2
+- gt: 2
+- way: 1
+- one: 1
+- smart: 1
+
+Emoji 🏨:
+- points: 2
+- used: 2
+- accor: 1
+- 2000: 1
+- 40: 1
+
+Emoji 💡:
+- token: 12
+- 000: 12
+- count: 8
+- 250: 8
+- es: 8
+
+Emoji 🆒:
+- easter: 6
+- hop: 4
+- thank: 3
+- much: 3
+- chance: 3
+
+Emoji ✳:
+- wentz: 2
+- eagles: 2
+- sean: 1
+- payton: 1
+- thought: 1
+
+Emoji 🏟:
+- wentz: 2
+- eagles: 2
+- harris: 2
+- questionable: 2
+- sean: 1
+
+Emoji ✖:
+- sharing: 12
+- live: 12
+- stream: 12
+- 1: 10
+- update: 6
+
+Emoji 💀:
+- like: 200
+- even: 97
+- bro: 86
+- know: 70
+- people: 61
+
+Emoji ☝:
+- one: 13
+- amp: 11
+- 2: 10
+- see: 8
+- love: 7
+
+Emoji 🍓:
+- strawberry: 3
+- congrats: 2
+- admin: 2
+- dm: 2
+- first: 2
+
+Emoji 🌇:
+- 2: 6
+- 0: 5
+- available: 2
+- vol: 2
+- side: 2
+
+Emoji 🛋:
+- 𓏔: 4
+- ph: 2
+- day: 2
+- congratulations: 1
+- tye: 1
+
+Emoji 🏼:
+- happy: 47
+- amp: 43
+- thank: 43
+- easter: 42
+- day: 37
+
+Emoji 🧸:
+- day: 5
+- pinned: 4
+- link: 4
+- good: 4
+- winner: 3
+
+Emoji ™:
+- creators: 4
+- acai: 4
+- 13: 4
+- child: 3
+- week: 3
+
+Emoji 🐠:
+- fish: 4
+- good: 4
+- service: 3
+- know: 3
+- play: 2
+
+Emoji 🐟:
+- fish: 5
+- play: 2
+- take: 2
+- worms: 2
+- weird: 2
+
+Emoji 🙃:
+- get: 17
+- like: 14
+- one: 12
+- really: 10
+- easter: 9
+
+Emoji ☀:
+- day: 276
+- good: 263
+- morning: 242
+- gm: 190
+- happy: 152
+
+Emoji 🌊:
+- people: 15
+- prcs: 14
+- amp: 10
+- children: 8
+- easter: 7
+
+Emoji 🛳:
+- 3: 2
+- php: 2
+- 300: 2
+- 1: 2
+- either: 2
+
+Emoji ⬅:
+- new: 3
+- roof: 2
+- rain: 2
+- animation: 2
+- huge: 2
+
+Emoji 💌:
+- get: 5
+- amp: 5
+- day: 5
+- happy: 5
+- easter: 5
+
+Emoji 🛒:
+- bulk: 4
+- good: 4
+- day: 4
+- pair: 3
+- every: 3
+
+Emoji 👮:
+- said: 4
+- love: 3
+- gonna: 3
+- amp: 2
+- power: 2
+
+Emoji 🚔:
+- first: 3
+- amp: 2
+- check: 1
+- register: 1
+- awesome: 1
+
+Emoji 🌼:
+- easter: 77
+- happy: 76
+- day: 22
+- thank: 22
+- love: 20
+
+Emoji 🌱:
+- easter: 19
+- happy: 17
+- spring: 9
+- love: 8
+- hope: 7
+
+Emoji 🩷:
+- easter: 32
+- happy: 30
+- love: 24
+- thank: 20
+- day: 19
+
+Emoji 🤛:
+- want: 2
+- mikey: 2
+- gt: 2
+- ufc: 2
+- holes: 2
+
+Emoji 💬:
+- gt: 104
+- 4: 97
+- 3: 96
+- 5: 90
+- 1: 83
+
+Emoji 🍨:
+- follow: 8
+- amp: 3
+- day: 2
+- 2: 2
+- time: 2
+
+Emoji 😵:
+- one: 13
+- like: 12
+- yaallah: 10
+- closed: 10
+- dh: 10
+
+Emoji 🔆:
+- tuesday: 8
+- gm: 6
+- love: 6
+- day: 6
+- happy: 5
+
+Emoji 🐱:
+- amp: 9
+- mean: 6
+- thank: 5
+- happy: 4
+- tomorrow: 4
+
+Emoji ✂:
+- code: 2
+- apply: 2
+- coupon: 2
+- 34: 2
+- 99: 2
+
+Emoji 🪓:
+- one: 2
+- face: 2
+- need: 1
+- ordinary: 1
+- weapon: 1
+
+Emoji 🏹:
+- ufc: 6
+- framing: 3
+- one: 3
+- hunter: 3
+- become: 3
+
+Emoji 🧀:
+- cheese: 8
+- amp: 4
+- white: 3
+- doll: 3
+- day: 3
+
+Emoji 👙:
+- crush: 2
+- ordered: 1
+- order: 1
+- vcs: 1
+- trusted: 1
+
+Emoji ✊:
+- time: 9
+- us: 7
+- right: 6
+- back: 5
+- like: 5
+
+Emoji 🔰:
+- supports: 20
+- across: 20
+- click: 20
+- kanaga: 16
+- jnr: 16
+
+Emoji 📖:
+- amp: 6
+- happy: 6
+- easter: 6
+- monkey: 3
+- grease: 3
+
+Emoji ⚖:
+- 1: 6
+- political: 4
+- acca: 4
+- start: 3
+- good: 3
+
+Emoji 🖐:
+- good: 5
+- morning: 3
+- political: 2
+- still: 2
+- friend: 2
+
+Emoji 🔐:
+- amp: 3
+- 0: 3
+- bones: 3
+- million: 2
+- coins: 2
+
+Emoji 🥶:
+- ufc: 6
+- steve: 6
+- garcia: 6
+- like: 6
+- got: 6
+
+Emoji 📥:
+- dct: 4
+- tap: 3
+- like: 2
+- chain: 2
+- 3: 2
+
+Emoji 👛:
+- chain: 2
+- ux: 1
+- improvements: 1
+- landed: 1
+- squid: 1
+
+Emoji ⛱:
+- sand: 1
+- boracay: 1
+- highlands: 1
+- tagaytay: 1
+- wind: 1
+
+Emoji ⛰:
+- cuddle: 2
+- lap: 2
+- sand: 1
+- boracay: 1
+- highlands: 1
+
+Emoji 🤭:
+- like: 30
+- love: 28
+- one: 24
+- easter: 16
+- day: 15
+
+Emoji 🍃:
+- happy: 15
+- easter: 12
+- 2023: 10
+- life: 6
+- love: 6
+
+Emoji 🦯:
+- knowing: 2
+- good: 2
+- well: 2
+- want: 2
+- ship: 2
+
+Emoji 🦽:
+- family: 6
+- sends: 6
+- job: 6
+- day: 6
+- bring: 6
+
+Emoji 👼:
+- 45: 9
+- u: 7
+- get: 6
+- 00: 6
+- 18: 6
+
+Emoji 🕊:
+- happy: 41
+- easter: 41
+- love: 33
+- good: 25
+- day: 22
+
+Emoji 💊:
+- maxis: 2
+- boast: 2
+- spending: 2
+- time: 2
+- seems: 2
+
+Emoji 😫:
+- american: 21
+- easter: 19
+- like: 19
+- get: 16
+- know: 16
+
+Emoji 🧱:
+- good: 2
+- morning: 2
+- received: 2
+- dividends: 2
+- mrk: 2
+
+Emoji 🌉:
+- sand: 1
+- boracay: 1
+- highlands: 1
+- tagaytay: 1
+- wind: 1
+
+Emoji 🤫:
+- got: 5
+- answer: 4
+- want: 4
+- maybe: 4
+- u: 4
+
+Emoji 💁:
+- w: 4
+- amp: 4
+- 2: 3
+- cheese: 2
+- entire: 2
+
+Emoji 🔳:
+- office: 2
+- report: 2
+- flr: 2
+- 2: 1
+- go: 1
+
+Emoji 🗽:
+- god: 4
+- bless: 4
+- easter: 3
+- best: 2
+- u: 2
+
+Emoji 💳:
+- order: 6
+- shipping: 5
+- china: 4
+- 35: 4
+- α: 4
+
+Emoji 🧠:
+- committing: 10
+- fault: 10
+- good: 9
+- people: 9
+- shut: 9
+
+Emoji 🔘:
+- today: 5
+- take: 4
+- fence: 3
+- contact: 3
+- labour: 3
+
+Emoji ➖:
+- mode: 52
+- 1: 52
+- dm: 46
+- congrats: 40
+- claim: 40
+
+Emoji 🩶:
+- sharing: 8
+- live: 8
+- stream: 8
+- mirror: 6
+- update: 4
+
+Emoji 🔃:
+- community: 6
+- like: 4
+- applying: 3
+- whitelist: 3
+- one: 3
+
+Emoji 📰:
+- first: 3
+- new: 2
+- crypto: 2
+- range: 2
+- amazing: 2
+
+Emoji 🦸:
+- let: 2
+- ep: 2
+- current: 1
+- efforts: 1
+- lacking: 1
+
+Emoji ♟:
+- play: 2
+- current: 1
+- efforts: 1
+- lacking: 1
+- strategy: 1
+
+Emoji 🕯:
+- easter: 86
+- best: 81
+- manifesting: 80
+- weather: 80
+- onlyoneof: 80
+
+Emoji 💲:
+- spring: 12
+- bling: 8
+- usd: 4
+- visit: 4
+- weekend: 4
+
+Emoji 🍽:
+- easter: 7
+- dinner: 6
+- love: 5
+- menu: 4
+- good: 4
+
+Emoji 🚴:
+- cycling: 2
+- cafe: 2
+- 10: 2
+- new: 2
+- meet: 2
+
+Emoji 🍮:
+- 00: 3
+- cycling: 2
+- cafe: 2
+- perfect: 2
+- jo1: 2
+
+Emoji ⛈:
+- grab: 1
+- pair: 1
+- gone: 1
+- sweatpants: 1
+- selling: 1
+
+Emoji 🫤:
+- like: 4
+- talking: 2
+- excuse: 2
+- car: 2
+- going: 2
+
+Emoji ♠:
+- amp: 4
+- sauce: 3
+- wonderful: 3
+- sure: 3
+- love: 3
+
+Emoji ♦:
+- space: 6
+- amp: 6
+- u: 4
+- like: 4
+- nigga: 3
+
+Emoji ♣:
+- 45: 3
+- team: 2
+- italy: 2
+- would: 2
+- 00: 2
+
+Emoji 👻:
+- 4: 134
+- gt: 125
+- 2: 122
+- 3: 115
+- 6: 102
+
+Emoji 🥤:
+- amp: 5
+- good: 4
+- morning: 4
+- phenomenal: 3
+- tuesday: 3
+
+Emoji 🍇:
+- food: 2
+- ponderosa: 1
+- mandarin: 1
+- wpff: 1
+- modified: 1
+
+Emoji 🗺:
+- find: 2
+- trading: 1
+- plan: 1
+- give: 1
+- edge: 1
+
+Emoji 🚗:
+- love: 6
+- good: 5
+- congrats: 4
+- amazing: 4
+- team: 4
+
+Emoji 💨:
+- via: 31
+- hip: 30
+- hop: 30
+- records: 21
+- amp: 20
+
+Emoji 🐀:
+- 2: 15
+- panthers: 14
+- win: 14
+- 42: 14
+- 31: 14
+
+Emoji 👹:
+- better: 7
+- yessssssssssss: 6
+- still: 6
+- symbolism: 6
+- owl: 6
+
+Emoji ⏬:
+- important: 4
+- wallet: 4
+- let: 2
+- go: 2
+- guys: 2
+
+Emoji 🎊:
+- happy: 100
+- birthday: 81
+- day: 34
+- congratulations: 28
+- hope: 23
+
+Emoji 😬:
+- never: 25
+- innocent: 24
+- like: 20
+- 1: 15
+- 10: 14
+
+Emoji 🦜:
+- traverse: 2
+- wall: 2
+- introducing: 1
+- new: 1
+- jungle: 1
+
+Emoji ✴:
+- easter: 2
+- sunday: 2
+- point: 1
+- many: 1
+- profiles: 1
+
+Emoji 🌾:
+- easter: 9
+- happy: 8
+- 0: 5
+- jesus: 4
+- 2: 4
+
+Emoji 🎢:
+- nft: 2
+- continues: 2
+- amp: 2
+- ecosystem: 1
+- voyage: 1
+
+Emoji 🥅:
+- happy: 10
+- easter: 10
+- hunt: 7
+- dark: 5
+- minions: 5
+
+Emoji 🛎:
+- go: 2
+- would: 1
+- premier: 1
+- league: 1
+- leeds: 1
+
+Emoji 🪣:
+- bucket: 2
+- list: 2
+- whiskey: 2
+- year: 1
+- knocking: 1
+
+Emoji 📜:
+- community: 6
+- applying: 3
+- whitelist: 3
+- one: 3
+- zksync: 3
+
+Emoji 🫢:
+- go: 5
+- jagat: 4
+- take: 4
+- good: 3
+- cant: 3
+
+Emoji 🤲:
+- god: 9
+- sir: 7
+- love: 6
+- need: 6
+- allah: 5
+
+Emoji ➰:
+- still: 1
+- tolerating: 1
+- fucking: 1
+- get: 1
+- piece: 1
+
+Emoji ☮:
+- people: 17
+- easter: 16
+- prcs: 16
+- happy: 14
+- good: 9
+
+Emoji 🗯:
+- app: 15
+- deadpan: 9
+- busy: 6
+- ha: 6
+- lies: 6
+
+Emoji 🎍:
+- b: 4
+- dab: 4
+- box: 2
+- set: 2
+- mat: 2
+
+Emoji ⚰:
+- amp: 5
+- music: 3
+- stand: 2
+- otherwise: 2
+- u: 2
+
+Emoji ↩:
+- stand: 2
+- u: 2
+- wеry: 2
+- mе: 2
+- death: 1
+
+Emoji ❔:
+- hole: 4
+- stand: 2
+- u: 2
+- 8: 2
+- rahm: 2
+
+Emoji 🐕:
+- easter: 10
+- happy: 9
+- egg: 6
+- goodnight: 6
+- mint: 6
+
+Emoji 🐼:
+- friend: 4
+- prizes: 4
+- good: 3
+- happy: 3
+- easter: 3
+
+Emoji 🚘:
+- every: 2
+- day: 2
+- show: 1
+- happens: 1
+- qtr: 1
+
+Emoji 👥:
+- darling: 4
+- everyday: 2
+- going: 2
+- good: 2
+- day: 2
+
+Emoji ❕:
+- easter: 5
+- hop: 4
+- great: 4
+- make: 3
+- day: 3
+
+Emoji ⚫:
+- come: 3
+- royal: 2
+- b: 2
+- tch: 2
+- offline: 2
+
+Emoji 🐈:
+- happy: 11
+- easter: 9
+- need: 8
+- amp: 7
+- day: 6
+
+Emoji 🐹:
+- cleaning: 4
+- eat: 4
+- list: 2
+- feeding: 2
+- cage: 2
+
+Emoji 🌴:
+- day: 4
+- c: 4
+- happy: 4
+- easter: 4
+- f: 3
+
+Emoji 🪳:
+- amp: 3
+- eggs: 3
+- tired: 2
+- 60: 1
+- minutes: 1
+
+Emoji 👿:
+- amp: 8
+- children: 5
+- penalty: 4
+- love: 4
+- referee: 4
+
+Emoji 😶:
+- family: 6
+- lgbtq: 6
+- one: 4
+- like: 4
+- thing: 4
+
+Emoji 🌫:
+- emotions: 9
+- ice: 9
+- family: 6
+- lgbtq: 6
+- one: 4
+
+Emoji 🔚:
+- 000: 2
+- order: 2
+- team: 1
+- work: 1
+- running: 1
+
+Emoji 🧋:
+- drink: 3
+- water: 3
+- boba: 3
+- hour: 2
+- tea: 2
+
+Emoji 🏰:
+- castle: 2
+- fla2hback: 2
+- stuff: 2
+- party: 2
+- making: 1
+
+Emoji 🌔:
+- love: 4
+- art: 2
+- hold: 2
+- song: 2
+- normally: 1
+
+Emoji 😝:
+- like: 15
+- love: 10
+- know: 9
+- amp: 8
+- today: 8
+
+Emoji 🦹:
+- crazy: 4
+- still: 3
+- waiting: 3
+- create: 3
+- military: 3
+
+Emoji 🔓:
+- line: 2
+- audit: 1
+- methodology: 1
+- reliable: 1
+- fast: 1
+
+Emoji 🐳:
+- whale: 17
+- trade: 10
+- alert: 10
+- cex: 10
+- btc: 10
+
+Emoji 🧧:
+- recommen: 2
+- verif: 2
+- recommended: 2
+- base: 2
+- bandung: 2
+
+Emoji 🧺:
+- easter: 61
+- happy: 39
+- day: 14
+- amp: 10
+- family: 10
+
+Emoji 🧊:
+- ice: 3
+- countertop: 2
+- maker: 2
+- 82: 2
+- 99: 2
+
+Emoji ⏏:
+- pre: 1
+- add: 1
+- new: 1
+- release: 1
+
+Emoji 🔑:
+- 4: 5
+- amp: 5
+- happy: 4
+- 2: 3
+- love: 3
+
+Emoji 🔀:
+- clearances: 2
+- 3: 2
+- back: 2
+- usmnt: 1
+- international: 1
+
+Emoji 🛰:
+- usdt: 42
+- debris: 21
+- giveaway: 21
+- worth: 21
+- tokens: 21
+
+Emoji 📆:
+- 45: 3
+- beyond: 2
+- live: 2
+- 16: 2
+- 19: 2
+
+Emoji 🖇:
+- streaming: 11
+- chain: 11
+- tags: 11
+- golden: 11
+- hour: 11
+
+Emoji ❎:
+- innocent: 22
+- never: 22
+- 1: 13
+- 5: 13
+- challenge: 11
+
+Emoji 🩵:
+- thank: 27
+- easter: 24
+- happy: 23
+- day: 13
+- mark: 11
+
+Emoji 📻:
+- amp: 3
+- gt: 3
+- join: 2
+- tomorrow: 2
+- service: 2
+
+Emoji ⏲:
+- egg: 6
+- mint: 6
+- potatoes: 3
+- attention: 3
+- splorers: 3
+
+Emoji 🎖:
+- br: 3
+- early: 2
+- leo: 1
+- messi: 1
+- joins: 1
+
+Emoji 🧩:
+- win: 3
+- tomorrow: 2
+- chance: 2
+- prizes: 2
+- puzzle: 2
+
+Emoji 🧔:
+- anwar: 2
+- estate: 2
+- oasis: 1
+- one: 1
+- presents: 1
+
+Emoji 🤵:
+- zhen: 1
+- series: 1
+- event: 1
+- no1: 1
+- new: 1
+
+Emoji 🎀:
+- easter: 17
+- happy: 13
+- riyadh: 12
+- available: 12
+- massager: 6
+
+Emoji 🕹:
+- 9: 2
+- 3v3: 1
+- masters: 1
+- mwii: 1
+- snd: 1
+
+Emoji 🌕:
+- lesson: 1
+- learnt: 1
+- g: 1
+- shine: 1
+- beautiful: 1
+
+Emoji 🧹:
+- 5: 31
+- f5: 12
+- 0: 11
+- 4: 8
+- sunday: 7
+
+Emoji 🪝:
+- 5: 6
+- clean: 1
+- sweep: 1
+- easter: 1
+- sunday: 1
+
+Emoji 🦺:
+- still: 2
+- gm: 2
+- hacked: 1
+- top: 1
+- dog: 1
+
+Emoji 🥠:
+- thank: 1
+- much: 1
+- chance: 1
+- tg: 1
+- ozcastillo: 1
+
+Emoji 🧦:
+- time: 4
+- wow: 3
+- would: 3
+- love: 3
+- smell: 3
+
+Emoji 🐻:
+- good: 7
+- happy: 6
+- easter: 6
+- bear: 6
+- super: 5
+
+Emoji 📽:
+- easter: 4
+- franco: 3
+- wander: 2
+- hr: 2
+- 725: 2
+
+Emoji 🅿:
+- gt: 3
+- homa: 2
+- masters: 1
+- round: 1
+- 3: 1
+
+Emoji ☁:
+- gt: 7
+- love: 3
+- done: 2
+- bunny: 2
+- day: 2
+
+Emoji ↗:
+- wish: 3
+- price: 2
+- 2: 2
+- fuck: 2
+- trade: 1
+
+Emoji ⚾:
+- 5: 12
+- amp: 10
+- easter: 10
+- 1: 10
+- win: 10
+
+Emoji 🐸:
+- follow: 4
+- like: 4
+- pfppepe: 4
+- ribbits: 4
+- day: 4
+
+Emoji 💴:
+- 31: 8
+- booom: 4
+- another: 4
+- amazing: 4
+- day: 4
+
+Emoji 🎩:
+- 3: 3
+- never: 3
+- much: 2
+- 11: 2
+- long: 2
+
+Emoji 👕:
+- goals: 5
+- 23: 3
+- 2022: 2
+- 2023: 2
+- games: 2
+
+Emoji 👐:
+- goals: 4
+- lost: 3
+- clean: 3
+- 2022: 2
+- 2023: 2
+
+Emoji 😯:
+- amp: 5
+- must: 3
+- even: 3
+- really: 3
+- allie: 3
+
+Emoji 🔖:
+- dct: 4
+- tap: 3
+- 1: 2
+- gtb: 2
+- new: 2
+
+Emoji 🟦:
+- friends: 6
+- new: 4
+- welcome: 2
+- hello: 2
+- existing: 2
+
+Emoji 🪙:
+- world: 6
+- win: 4
+- 1: 3
+- dinner: 3
+- party: 3
+
+Emoji 🧙:
+- easter: 7
+- happy: 3
+- military: 2
+- sunday: 2
+- amazing: 2
+
+Emoji 🥕:
+- easter: 63
+- happy: 48
+- riyadh: 18
+- available: 18
+- cute: 17
+
+Emoji 🍅:
+- cuz: 6
+- aunt: 6
+- deadass: 5
+- walked: 5
+- wall: 5
+
+Emoji 🪺:
+- easter: 84
+- happy: 69
+- amp: 16
+- everyone: 14
+- day: 12
+
+Emoji 🦧:
+- trenches: 1
+- w: 1
+- hazing: 1
+- arizona: 1
+- walter: 1
+
+Emoji ⛔:
+- much: 10
+- good: 6
+- long: 6
+- 0: 5
+- cheated: 5
+
+Emoji ✝:
+- easter: 171
+- happy: 148
+- day: 46
+- family: 28
+- god: 25
+
+Emoji 🛠:
+- today: 2
+- happy: 1
+- easter: 1
+- handymen: 1
+- honey: 1
+
+Emoji 🧘:
+- take: 4
+- right: 3
+- self: 3
+- feeling: 2
+- alone: 2
+
+Emoji 🎂:
+- birthday: 212
+- happy: 203
+- day: 77
+- hope: 46
+- may: 28
+
+Emoji 🍭:
+- easter: 30
+- happy: 17
+- day: 9
+- family: 8
+- bring: 6
+
+Emoji 🕎:
+- hope: 2
+- may: 2
+- thin: 2
+- ceramic: 2
+- bead: 2
+
+Emoji 👾:
+- like: 3
+- join: 3
+- one: 3
+- love: 3
+- 1: 2
+
+Emoji 🍙:
+- bts: 3
+- wts: 2
+- lfb: 2
+- ph: 2
+- avail: 2
+
+Emoji ⛏:
+- easter: 5
+- new: 4
+- mining: 4
+- site: 4
+- free: 2
+
+Emoji 🎗:
+- new: 2
+- mining: 2
+- site: 2
+- day: 2
+- free: 1
+
+Emoji 😑:
+- like: 8
+- yes: 6
+- sure: 5
+- know: 4
+- one: 4
+
+Emoji 🥲:
+- like: 115
+- one: 68
+- time: 57
+- get: 56
+- good: 47
+
+Emoji 🚬:
+- yes: 6
+- first: 4
+- oe: 2
+- work: 2
+- haze: 2
+
+Emoji 💤:
+- day: 9
+- good: 9
+- yes: 8
+- goodnight: 6
+- sleep: 5
+
+Emoji 🦒:
+- amp: 3
+- 00: 3
+- insane: 2
+- nft: 2
+- giveaway: 2
+
+Emoji 🟨:
+- 4: 16
+- 6: 14
+- points: 12
+- 659: 11
+- day: 10
+
+Emoji 😴:
+- good: 13
+- night: 9
+- easter: 7
+- amp: 6
+- sweet: 6
+
+Emoji ◾:
+- followers: 12
+- 24: 11
+- 7: 11
+- trust: 10
+- india: 10
+
+Emoji 🍷:
+- happy: 6
+- easter: 5
+- amp: 5
+- thank: 5
+- day: 5
+
+Emoji 🪂:
+- buff: 4
+- king: 4
+- introducing: 2
+- nft: 2
+- get: 2
+
+Emoji 🗨:
+- amp: 3
+- 1: 2
+- like: 2
+- job: 2
+- bdvoter: 1
+
+Emoji 🟩:
+- 6: 88
+- 659: 62
+- wordle: 53
+- 4: 47
+- streak: 45
+
+Emoji 🌲:
+- man: 2
+- 2: 2
+- dead: 2
+- clouds: 2
+- nature: 2
+
+Emoji 🍏:
+- boom: 10
+- one: 9
+- day: 8
+- learn: 7
+- look: 7
+
+Emoji 🐦:
+- supports: 10
+- across: 10
+- click: 10
+- easter: 8
+- good: 5
+
+Emoji 😃:
+- easter: 26
+- happy: 24
+- good: 20
+- day: 12
+- thank: 9
+
+Emoji 🧢:
+- fr: 2
+- point: 2
+- kitup: 1
+- play: 1
+- anymore: 1
+
+Emoji 💔:
+- amp: 21
+- yes: 19
+- even: 15
+- god: 14
+- would: 14
+
+Emoji 🔻:
+- gn: 7
+- ardavan: 3
+- wish: 3
+- great: 3
+- restful: 3
+
+Emoji ⛓:
+- gt: 3
+- chain: 3
+- web3: 2
+- art: 2
+- support: 2
+
+Emoji 🏍:
+- good: 4
+- day: 3
+- automatic: 2
+- watch: 2
+- easter: 2
+
+Emoji 🍵:
+- tea: 3
+- really: 3
+- usa: 2
+- wastes: 2
+- food: 2
+
+Emoji 🪲:
+- 100: 2
+- 0: 2
+- 21: 1
+- million: 1
+- 000x: 1
+
+Emoji 🎾:
+- ml: 3
+- shoulder: 3
+- okay: 3
+- tennis: 3
+- men: 2
+
+Emoji 🕕:
+- may: 3
+- get: 2
+- 2023: 2
+- ujcf: 2
+- april: 2
+
+Emoji 🚩:
+- see: 25
+- let: 24
+- squad: 24
+- pull: 24
+- next: 24
+
+Emoji ⬜:
+- 6: 40
+- wordle: 28
+- 659: 28
+- even: 12
+- proper: 12
+
+Emoji 🛑:
+- amp: 4
+- easter: 3
+- giveaway: 2
+- follow: 2
+- 5: 2
+
+Emoji 🦍:
+- iam: 2
+- reminder: 1
+- people: 1
+- hate: 1
+- means: 1
+
+Emoji 🤘:
+- happy: 18
+- easter: 16
+- amp: 9
+- day: 7
+- hope: 6
+
+Emoji 🛖:
+- day149: 1
+- started: 1
+- work: 1
+- new: 1
+- project: 1
+
+Emoji 🏸:
+- 2022: 3
+- french: 3
+- open: 3
+- wd: 3
+- 2023: 3
+
+Emoji 👁:
+- whopper: 12
+- ____: 12
+- mean: 11
+- amp: 10
+- 2: 8
+
+Emoji 🆔:
+- trust: 2
+- india: 2
+- online: 2
+- whatsapp: 1
+- register: 1
+
+Emoji 😢:
+- like: 11
+- happy: 10
+- see: 10
+- l: 10
+- thought: 7
+
+Emoji 🎽:
+- game: 2
+- 82: 2
+- vs: 2
+- icon: 2
+- association: 1
+
+Emoji 🔎:
+- game: 2
+- 82: 2
+- vs: 2
+- icon: 2
+- easter: 2
+
+Emoji 🟣:
+- puyo: 4
+- game: 3
+- everyone: 3
+- miss: 3
+- 82: 2
+
+Emoji 💹:
+- drop: 1
+- pump: 1
+- glorious: 1
+
+Emoji 🍉:
+- day: 2
+- two: 2
+- done: 2
+- usa: 1
+- wastes: 1
+
+Emoji ❇:
+- core: 3
+- code: 3
+- 120: 2
+- cake: 2
+- link: 2
+
+Emoji 🏅:
+- complete: 5
+- 5: 4
+- fabulous: 4
+- work: 4
+- kristain: 4
+
+Emoji 🙀:
+- amp: 5
+- wait: 4
+- weez: 4
+- kids: 3
+- many: 3
+
+Emoji 🫵:
+- いったね: 10
+- whopper: 6
+- amp: 5
+- get: 5
+- 笑笑: 5
+
+Emoji 😡:
+- get: 159
+- people: 107
+- like: 106
+- haters: 101
+- want: 100
+
+Emoji 🧚:
+- easter: 5
+- like: 4
+- top100: 4
+- kpop: 4
+- members: 4
+
+Emoji 🤨:
+- wow: 81
+- cant: 27
+- like: 10
+- u: 10
+- app: 10
+
+Emoji 🦇:
+- easter: 4
+- got: 3
+- state: 2
+- charlottenburg: 2
+- palace: 2
+
+Emoji 🪞:
+- look: 1
+- mirror: 1
+- charlie: 1
+
+Emoji 🗑:
+- people: 4
+- amp: 4
+- children: 4
+- disgusting: 3
+- fucking: 3
+
+Emoji 😐:
+- like: 6
+- person: 5
+- thank: 3
+- tour: 3
+- ask: 3
+
+Emoji 🐔:
+- amp: 7
+- easter: 5
+- chicken: 4
+- happy: 4
+- c: 4
+
+Emoji 🍗:
+- amp: 3
+- battle: 1
+- chicken: 1
+- wings: 1
+- vs: 1
+
+Emoji 🎪:
+- amp: 3
+- good: 3
+- 45: 3
+- really: 2
+- w: 2
+
+Emoji 🦰:
+- life: 2
+- visit: 2
+- dont: 1
+- think: 1
+- seen: 1
+
+Emoji 🐖:
+- nicely: 4
+- think: 2
+- cooked: 2
+- necessarily: 2
+- mean: 2
+
+Emoji 🤥:
+- changed: 12
+- 2days: 12
+- vvd: 8
+- dribbled: 8
+- past: 8
+
+Emoji 🤢:
+- gt: 10
+- mean: 9
+- think: 8
+- like: 7
+- people: 7
+
+Emoji 😕:
+- ive: 10
+- like: 8
+- every: 6
+- read: 6
+- thing: 5
+
+Emoji 🐂:
+- amp: 9
+- like: 6
+- people: 5
+- say: 4
+- would: 4
+
+Emoji 👺:
+- wonder: 10
+- scooped: 10
+- yessssssssssss: 6
+- still: 6
+- symbolism: 6
+
+Emoji 🤧:
+- one: 22
+- time: 16
+- twitter: 16
+- get: 15
+- remember: 14
+
+Emoji 🐘:
+- gt: 140
+- 3: 132
+- 4: 128
+- 5: 123
+- 2: 110
+
+Emoji 🌚:
+- make: 6
+- twitter: 6
+- day: 5
+- na: 5
+- one: 4
+
+Emoji 🐑:
+- easter: 39
+- happy: 36
+- day: 13
+- amp: 12
+- wish: 11
+
+Emoji 😓:
+- day: 5
+- watch: 3
+- every: 3
+- dad: 2
+- hmmm: 2
+
+Emoji 😥:
+- tweets: 42
+- 2: 29
+- sended: 14
+- send: 14
+- wantedshow: 14
+
+Emoji 😨:
+- like: 122
+- one: 87
+- oh: 73
+- people: 64
+- really: 48
+
+Emoji 😰:
+- like: 10
+- much: 6
+- going: 6
+- oh: 6
+- definitely: 6
+
+Emoji 😪:
+- amp: 6
+- like: 5
+- never: 4
+- time: 4
+- wait: 4
+
+Emoji 📕:
+- someone: 1
+- promises: 1
+- something: 1
+- seems: 1
+- good: 1
+
+Emoji 🙊:
+- 3: 53
+- 4: 53
+- 5: 48
+- 2: 46
+- gt: 44
+
+Emoji 🧍:
+- remember: 4
+- stay: 3
+- like: 3
+- oh: 2
+- wow: 2
+
+Emoji 😣:
+- remember: 16
+- left: 10
+- else: 9
+- oh: 8
+- wow: 8
+
+Emoji 😒:
+- like: 18
+- get: 17
+- u: 15
+- 1: 13
+- 5: 11
+
+Emoji 😿:
+- remember: 12
+- oh: 7
+- wow: 6
+- raiiiiiiiiiiiiiiinnnnnnnnnnnn: 6
+- theee: 6
+
+Emoji 😟:
+- easy: 3
+- help: 3
+- uta: 3
+- make: 3
+- way: 3
+
+Emoji ✋:
+- love: 5
+- 20: 4
+- years: 4
+- us: 3
+- see: 3
+
+Emoji 🏳:
+- gay: 7
+- right: 5
+- easter: 5
+- amp: 5
+- family: 4
+
+Emoji 🐤:
+- easter: 67
+- happy: 59
+- day: 12
+- health: 12
+- everyone: 12
+
+Emoji 🥓:
+- bacon: 20
+- whopper: 12
+- easter: 8
+- breakfast: 7
+- morning: 6
+
+Emoji 🙁:
+- cry: 3
+- youre: 2
+- talking: 2
+- speed: 2
+- rank: 2
+
+Emoji 🧟:
+- mean: 8
+- gt: 5
+- mikey: 4
+- womens: 4
+- zombie: 4
+
+Emoji 😦:
+- ive: 4
+- last: 3
+- chapter: 3
+- youre: 2
+- talking: 2
+
+Emoji 😷:
+- 2: 9
+- amp: 8
+- leave: 6
+- part: 6
+- nothing: 6
+
+Emoji 🧁:
+- easter: 5
+- happy: 5
+- ate: 4
+- thank: 4
+- right: 3
+
+Emoji 🎫:
+- 45: 3
+- filled: 2
+- 00: 2
+- 18: 2
+- wtb: 1
+
+Emoji 😠:
+- im: 34
+- sear: 34
+- never: 19
+- omg: 18
+- litetally: 17
+
+Emoji ☹:
+- like: 6
+- today: 5
+- oh: 5
+- could: 5
+- day: 4
+
+Emoji 😲:
+- results: 12
+- amp: 10
+- hear: 7
+- want: 7
+- correctly: 6
+
+Emoji 🥯:
+- day: 4
+- good: 3
+- morning: 3
+- breakfast: 3
+- wonderful: 3
+
+Emoji 🧇:
+- breakfast: 2
+- good: 1
+- morning: 1
+- please: 1
+- share: 1
+
+Emoji 🥞:
+- breakfast: 7
+- good: 5
+- u: 5
+- know: 4
+- sunday: 4
+
+Emoji 🫐:
+- food: 5
+- amp: 5
+- 30: 4
+- days: 4
+- fruit: 4
+
+Emoji 😞:
+- like: 12
+- us: 11
+- legit: 11
+- yes: 10
+- put: 10
+
+Emoji 🫴:
+- amp: 5
+- happy: 2
+- easter: 2
+- love: 2
+- nana: 1
+
+Emoji 🍈:
+- streaming: 2
+- usa: 1
+- wastes: 1
+- food: 1
+- day: 1
+
+Emoji 🍋:
+- nicholson: 3
+- lemonade: 2
+- shawniece: 2
+- alpha: 2
+- usa: 1
+
+Emoji 🍍:
+- amp: 2
+- khan: 2
+- elections: 2
+- usa: 1
+- wastes: 1
+
+Emoji 🥭:
+- food: 5
+- 30: 4
+- days: 4
+- fruit: 4
+- amp: 4
+
+Emoji 🍐:
+- dmm: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🥝:
+- food: 3
+- 30: 2
+- days: 2
+- fruit: 2
+- amp: 2
+
+Emoji 🫒:
+- usa: 2
+- wastes: 2
+- food: 2
+- happy: 1
+- holy: 1
+
+Emoji 🥥:
+- usa: 2
+- wastes: 2
+- food: 2
+- nex: 1
+- tweeting: 1
+
+Emoji 🥑:
+- usa: 3
+- wastes: 3
+- food: 3
+- made: 3
+- look: 3
+
+Emoji 🥔:
+- day: 7
+- kon: 6
+- bunny: 6
+- easter: 4
+- happy: 3
+
+Emoji 🌽:
+- prof: 6
+- answer: 3
+- behalf: 3
+- hiding: 3
+- corner: 3
+
+Emoji 🌶:
+- ว: 6
+- love: 4
+- สาค: 3
+- ไส: 3
+- หม: 3
+
+Emoji 🫑:
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🥒:
+- dmm: 2
+- usa: 1
+- wastes: 1
+- food: 1
+- sib: 1
+
+Emoji 🥬:
+- bacon: 3
+- lettuce: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🫛:
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🧄:
+- usa: 1
+- wastes: 1
+- food: 1
+- crumbly: 1
+- cheese: 1
+
+Emoji 🧅:
+- usa: 1
+- wastes: 1
+- food: 1
+- really: 1
+- leave: 1
+
+Emoji 🍄:
+- happy: 4
+- amp: 4
+- easter: 3
+- mentally: 3
+- day: 2
+
+Emoji 🥜:
+- usa: 1
+- wastes: 1
+- food: 1
+- three: 1
+- biggest: 1
+
+Emoji 🫘:
+- happy: 2
+- nothing: 2
+- good: 2
+- norma: 2
+- usa: 1
+
+Emoji 🫚:
+- usa: 2
+- wastes: 2
+- food: 2
+
+Emoji 🍞:
+- happy: 2
+- child: 2
+- rights: 2
+- amp: 2
+- usa: 1
+
+Emoji 🥐:
+- easter: 7
+- l: 7
+- gm: 6
+- g: 4
+- n: 4
+
+Emoji 🥖:
+- fun: 3
+- part: 3
+- pic: 3
+- paula: 3
+- white: 3
+
+Emoji 🥩:
+- beat: 2
+- tomohawk: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🍟:
+- food: 4
+- mzanzi: 4
+- xclusive: 2
+- spot: 2
+- restaurant: 2
+
+Emoji 🌭:
+- welcome: 2
+- weenie: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🥪:
+- u: 4
+- bacon: 4
+- nigga: 3
+- see: 2
+- good: 2
+
+Emoji 🌮:
+- gm: 23
+- tuesday: 23
+- tacos: 20
+- taco: 17
+- get: 16
+
+Emoji 🌯:
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🫔:
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🥙:
+- happy: 3
+- easter: 3
+- good: 2
+- norma: 2
+- usa: 1
+
+Emoji 🧆:
+- happy: 2
+- easter: 2
+- great: 2
+- new: 2
+- usa: 1
+
+Emoji 🥘:
+- good: 3
+- cook: 2
+- norma: 2
+- usa: 1
+- wastes: 1
+
+Emoji 🍘:
+- like: 2
+- say: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🍚:
+- rice: 2
+- please: 2
+- bless: 2
+- usa: 1
+- wastes: 1
+
+Emoji 🍛:
+- happy: 2
+- day: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🍜:
+- eggs: 3
+- noodles: 2
+- basil: 2
+- usa: 1
+- wastes: 1
+
+Emoji 🍢:
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🥡:
+- chinese: 2
+- back: 2
+- usa: 1
+- wastes: 1
+- food: 1
+
+Emoji 🍦:
+- today: 6
+- happy: 6
+- easter: 4
+- line: 3
+- b: 3
+
+Emoji 🍧:
+- egg: 3
+- aaron: 2
+- meeks: 2
+- hunt: 2
+- join: 2
+
+Emoji 🍰:
+- get: 18
+- 1: 14
+- 5: 12
+- back: 12
+- daddies: 12
+
+Emoji 🥛:
+- good: 5
+- day: 4
+- sleep: 3
+- delicious: 2
+- perfect: 2
+
+Emoji 🍸:
+- name: 4
+- friday: 4
+- amp: 4
+- love: 3
+- gee: 3
+
+Emoji 🍹:
+- day: 5
+- drink: 4
+- great: 4
+- presented: 3
+- amp: 3
+
+Emoji 🥃:
+- happy: 9
+- easter: 6
+- many: 4
+- returns: 4
+- day: 4
+
+Emoji 🍝:
+- amp: 3
+- dishes: 2
+- cheese: 2
+- awesome: 2
+- today: 2
+
+Emoji 🥧:
+- thank: 4
+- amp: 3
+- marky: 3
+- dishes: 2
+- cheese: 2
+
+Emoji 👟:
+- u: 4
+- nigga: 3
+- get: 3
+- see: 2
+- know: 2
+
+Emoji 🪪:
+- u: 4
+- nigga: 3
+- see: 2
+- know: 2
+- say: 1
+
+Emoji 👦:
+- 0: 5
+- w: 4
+- life: 4
+- fren: 4
+- 2: 4
+
+Emoji 👱:
+- one: 2
+- easter: 2
+- daddy: 2
+- going: 2
+- love: 2
+
+Emoji 🪔:
+- जय: 2
+- 181: 1
+- always: 1
+- unable: 1
+- control: 1
+
+Emoji 📂:
+- 181: 1
+- always: 1
+- unable: 1
+- control: 1
+- one: 1
+
+Emoji 🥣:
+- also: 2
+- love: 2
+- cool: 1
+- funny: 1
+- selections: 1
+
+Emoji 🍣:
+- gt: 5
+- sushi: 4
+- 135: 3
+- fight: 2
+- try: 2
+
+Emoji 👠:
+- look: 3
+- 10: 2
+- 〇: 2
+- good: 2
+- morning: 2
+
+Emoji 🫓:
+- 10: 2
+- amen: 2
+- may: 2
+- wonderful: 2
+- easter: 2
+
+Emoji ☃:
+- celebrating: 1
+- bunny: 1
+- day: 1
+- snow: 1
+- crystal: 1
+
+Emoji 🥗:
+- cooking: 2
+- salad: 2
+- meals: 2
+- breakfast: 2
+- hemp: 2
+
+Emoji 👅:
+- easter: 18
+- happy: 14
+- tại: 14
+- riyadh: 12
+- available: 12
+
+Emoji 😽:
+- easter: 12
+- happy: 8
+- cute: 4
+- thank: 4
+- much: 4
+
+Emoji 🐥:
+- easter: 177
+- happy: 163
+- day: 42
+- hope: 34
+- amp: 34
+
+Emoji 🐓:
+- easter: 9
+- happy: 7
+- 0: 5
+- ws: 5
+- 2: 4
+
+Emoji 🛀:
+- oh: 3
+- maybe: 3
+- nice: 3
+- homemade: 3
+- food: 3
+
+Emoji 🛌:
+- nice: 4
+- could: 4
+- less: 4
+- oh: 3
+- maybe: 3
+
+Emoji 😸:
+- pals: 9
+- mum: 6
+- cos: 4
+- love: 4
+- one: 4
+
+Emoji 🍼:
+- would: 4
+- luv: 4
+- yummyness: 4
+- liquid: 4
+- gold: 4
+
+Emoji 🍡:
+- aaron: 2
+- meeks: 2
+- happy: 2
+- easter: 2
+- account: 1
+
+Emoji 🥟:
+- aaron: 2
+- meeks: 2
+- food: 2
+- account: 1
+- dedicated: 1
+
+Emoji 🏫:
+- world: 8
+- amp: 6
+- dinner: 4
+- party: 4
+- win: 4
+
+Emoji 😾:
+- love: 4
+- gemesss: 2
+- bgt: 2
+- anw: 2
+- hb: 2
+
+Emoji 💟:
+- easter: 7
+- happy: 6
+- love: 5
+- towards: 5
+- time: 4
+
+Emoji 🫥:
+- 2023: 2
+- 04: 2
+- show: 2
+- tomorrow: 2
+- 09: 1
+
+Emoji 🪸:
+- 2023: 1
+- 04: 1
+- 09: 1
+- 18: 1
+- 32: 1
+
+Emoji 👘:
+- today: 2
+- 2023: 1
+- 04: 1
+- 09: 1
+- 18: 1
+
+Emoji 🔭:
+- army: 10
+- key: 10
+- military: 10
+- c: 10
+- red: 5
+
+Emoji 🐌:
+- 2023: 1
+- 04: 1
+- 09: 1
+- 18: 1
+- 32: 1
+
+Emoji 🦾:
+- love: 3
+- see: 3
+- one: 3
+- face: 2
+- identity: 2
+
+Emoji 💂:
+- crazy: 1
+- still: 1
+- waiting: 1
+- create: 1
+- military: 1
+
+Emoji 👷:
+- u: 2
+- crazy: 1
+- still: 1
+- waiting: 1
+- create: 1
+
+Emoji 🏭:
+- crazy: 1
+- still: 1
+- waiting: 1
+- create: 1
+- military: 1
+
+Emoji 🚒:
+- first: 2
+- thing: 2
+- wake: 2
+- bad: 2
+- dream: 2
+
+Emoji 🤴:
+- today: 5
+- king: 3
+- coming: 3
+- big: 3
+- u: 3
+
+Emoji 🥷:
+- taxed: 8
+- amp: 4
+- going: 4
+- love: 4
+- earned: 4
+
+Emoji 🧛:
+- mikey: 4
+- gt: 4
+- still: 2
+- epic: 2
+- schipper: 2
+
+Emoji 🧜:
+- gm: 2
+- hope: 2
+- u: 2
+- crush: 2
+- love: 2
+
+Emoji 🤏:
+- whopper: 12
+- rule: 4
+- one: 4
+- aww: 3
+- combination: 3
+
+Emoji 🫦:
+- need: 3
+- lips: 2
+- make: 2
+- normal: 2
+- amount: 2
+
+Emoji 🤸:
+- results: 28
+- congratulations: 28
+- lucky: 28
+- winners: 28
+- thank: 28
+
+Emoji 👵:
+- roast: 3
+- pork: 3
+- dinner: 3
+- granny: 3
+- trimmings: 3
+
+Emoji 👯:
+- easter: 22
+- happy: 12
+- get: 9
+- 0: 7
+- wish: 7
+
+Emoji 🕰:
+- happy: 2
+- day: 2
+- belated: 1
+- hope: 1
+- enjoyed: 1
+
+Emoji 🪶:
+- happy: 2
+- day: 2
+- belated: 1
+- hope: 1
+- enjoyed: 1
+
+Emoji 🎠:
+
+Emoji 🩹:
+- never: 4
+- omg: 4
+- happy: 4
+- mich: 4
+- love: 3
+
+Emoji 🙆:
+- mean: 6
+- day: 5
+- shot: 4
+- good: 4
+- amp: 3
+
+Emoji 💆:
+- interaction: 12
+- want: 10
+- hater: 4
+- like: 2
+- say: 2
+
+Emoji 🪦:
+- life: 3
+- amp: 3
+- dying: 3
+- moment: 3
+- シュント: 3
+
+Emoji 🌧:
+- amp: 6
+- rain: 5
+- morning: 4
+- wind: 4
+- walk: 3
+
+Emoji 🚳:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 🐜:
+- going: 2
+- summer: 2
+- 421: 1
+- moves: 1
+- 13: 1
+
+Emoji 🕴:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 🩸:
+- cross: 6
+- one: 4
+- new: 4
+- pain: 4
+- today: 3
+
+Emoji 🥎:
+- softball: 2
+- day: 2
+- 421: 1
+- moves: 1
+- 13: 1
+
+Emoji 🕛:
+- today: 2
+- time: 2
+- get: 2
+- 00: 2
+- hop: 2
+
+Emoji 🏵:
+- easter: 7
+- love: 5
+- happy: 5
+- today: 3
+- may: 3
+
+Emoji 🚅:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 🦔:
+- easter: 3
+- happy: 2
+- stamp: 2
+- think: 2
+- sonic: 2
+
+Emoji 🩺:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 🟪:
+- points: 6
+- days: 4
+- daily: 3
+- 65: 3
+- 428: 3
+
+Emoji 🐅:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 💄:
+- thailand: 2
+- ambassador: 2
+- 〇: 2
+- 421: 1
+- moves: 1
+
+Emoji 🚦:
+- 421: 1
+- moves: 1
+- 13: 1
+- today: 1
+- tomorrow: 1
+
+Emoji 🎰:
+- casino: 3
+- love: 2
+- easter: 2
+- 421: 1
+- moves: 1
+
+Emoji 🦄:
+- today: 3
+- day: 3
+- celebrate: 3
+- 2: 2
+- happy: 2
+
+Emoji 🕸:
+- mikey: 2
+- gt: 2
+- could: 2
+- 421: 1
+- moves: 1
+
+Emoji 🪷:
+- easter: 10
+- happy: 7
+- well: 3
+- means: 3
+- officially: 3
+
+Emoji ⛄:
+- spring: 1
+- lots: 1
+- great: 1
+- detail: 1
+- davis: 1
+
+Emoji 🌤:
+- day: 5
+- good: 4
+- air: 4
+- weekend: 3
+- thank: 3
+
+Emoji ☦:
+- easter: 8
+- happy: 5
+- everyone: 3
+- eggs: 3
+- sunday: 2
+
+Emoji ⛪:
+- easter: 38
+- happy: 27
+- u: 8
+- everyone: 7
+- time: 7
+
+Emoji 🐏:
+- feels: 3
+- good: 3
+- 40: 3
+- happy: 2
+- today: 2
+
+Emoji ⛵:
+- much: 2
+- cheated: 1
+- prostate: 1
+- bleeds: 1
+- good: 1
+
+Emoji ⛑:
+- switch: 1
+- normal: 1
+- difficulty: 1
+- excess: 1
+- sustenance: 1
+
+Emoji 🐛:
+- see: 5
+- hate: 4
+- paralyze: 4
+- mind: 4
+- u: 4
+
+Emoji 🐞:
+- spring: 12
+- bling: 8
+- look: 5
+- 0: 5
+- visit: 4
+
+Emoji 🏏:
+- happy: 6
+- easter: 6
+- players: 6
+- volunteers: 6
+- supporters: 6
+
+Emoji 🐲:
+- everything: 2
+- come: 2
+- happy: 1
+- easter: 1
+- today: 1
+
+Emoji 🏔:
+- get: 2
+- coming: 2
+- fr: 2
+- yes: 2
+- turning: 2
+
+Emoji 🐆:
+- animal: 2
+- discover: 1
+- rarity: 1
+- tiers: 1
+- friends: 1
+
+Emoji 🧎:
+- one: 3
+- u: 3
+- easter: 2
+- knees: 2
+- mercy: 2
+
+Emoji 🍤:
+- wait: 1
+- make: 1
+- seafood: 1
+- deviled: 1
+- eggs: 1
+
+Emoji 🦃:
+- turkey: 2
+- cajun: 1
+- smoked: 1
+- done: 1
+- deviled: 1
+
+Emoji 🏺:
+- happy: 1
+- easter: 1
+- celebrating: 1
+- weekend: 1
+
+Emoji 🐷:
+- still: 6
+- dead: 6
+- 2: 5
+- looking: 4
+- better: 4
+
+Emoji ☢:
+- easter: 6
+- new: 4
+- happy: 2
+- citizens: 2
+- use: 2
+
+Emoji 🥀:
+- easter: 4
+- girl: 3
+- happy: 2
+- wonderful: 2
+- saturday: 2
+
+Emoji 👄:
+- love: 7
+- one: 7
+- always: 7
+- riyadh: 6
+- available: 6
+
+Emoji 👳:
+- easter: 2
+- big: 2
+- daddy: 2
+- vs: 2
+- hippity: 1
+
+Emoji 🙅:
+- easter: 2
+- daddy: 2
+- liverpool: 2
+- shit: 2
+- thought: 2
+
+Emoji ↖:
+- wish: 3
+- fuck: 2
+- gm: 1
+- everybody: 1
+- happy: 1
+
+Emoji 👖:
+- gm: 1
+- everybody: 1
+- happy: 1
+- easter: 1
+- made: 1
+
+Emoji 🪐:
+- easter: 11
+- happy: 10
+- little: 8
+- close: 6
+- planet: 4
+
+Emoji 🏂:
+- easter: 5
+- break: 2
+- coin: 2
+- biggest: 2
+- 5: 2
+
+Emoji 🚁:
+- helicopters: 2
+- door: 2
+- power: 2
+- wow: 1
+- apopka: 1
+
+Emoji 🎚:
+- happy: 2
+- holy: 2
+- saturday: 2
+- many: 2
+- blessings: 2
+
+Emoji 💒:
+- amp: 9
+- easter: 8
+- happy: 7
+- spokane: 6
+- jh: 3
+
+Emoji 🛐:
+- amp: 7
+- que: 5
+- mulher: 5
+- much: 4
+- god: 4
+
+Emoji 👪:
+- happy: 4
+- easter: 4
+- family: 4
+- amp: 3
+- blue: 2
+
+Emoji 🅱:
+- 0: 2
+- eat: 2
+- rain: 1
+- animation: 1
+- huge: 1
+
+Emoji 🛸:
+- world: 12
+- frfr: 12
+- amp: 4
+- lapd: 4
+- air: 4
+
+Emoji ⚙:
+- came: 3
+- planet: 2
+- shmeat: 2
+- get: 2
+- sewing: 2
+
+Emoji ㊗:
+- ピピちゃん: 1
+- おはよう: 1
+- ピピちゃんトコも祝日なんだね: 1
+- ジン君: 1
+- 可愛いいね: 1
+
+Emoji 🐍:
+- good: 6
+- snakes: 6
+- lmao: 3
+- people: 3
+- die: 3
+
+Emoji 👶:
+- love: 7
+- baby: 7
+- darling: 6
+- dgz: 4
+- breeding: 4
+
+Emoji 📘:
+- thanks: 2
+- get: 2
+- stuff: 2
+- break: 2
+- sharing: 1
+
+Emoji 🗿:
+- time: 12
+- school: 12
+- tapeworm: 8
+- whole: 8
+- middle: 8
+
+Emoji 🕶:
+- one: 3
+- sunglasses: 3
+- family: 2
+- course: 2
+- lah: 2
+
+Emoji 🎞:
+- into1__patrick: 2
+- outstanding: 1
+- glory: 1
+- never: 1
+- falling: 1
+
+Emoji 🚤:
+- let: 1
+- day: 1
+- go: 1
+- without: 1
+- easter: 1
+
+Emoji 🪴:
+- happy: 3
+- easter: 3
+- spring: 3
+- sunday: 2
+- grow: 2
+
+Emoji ☔:
+- much: 4
+- hope: 4
+- easter: 3
+- day: 3
+- bunny: 2
+
+Emoji 🔦:
+- hunt: 2
+- 7: 2
+- 5th: 1
+- 8th: 1
+- graders: 1
+
+Emoji 🆓:
+- hunt: 2
+- 7: 2
+- 5th: 1
+- 8th: 1
+- graders: 1
+
+Emoji 🌃:
+- mean: 6
+- see: 2
+- stay: 2
+- heroes: 2
+- glory: 2
+
+Emoji 🦌:
+- sunday: 18
+- get: 16
+- arbswap: 16
+- moon: 16
+- happy: 16
+
+Emoji 🐉:
+- super: 2
+- inspired: 2
+- book: 2
+- write: 2
+- ep: 2
+
+Emoji 💍:
+- day: 3
+- always: 3
+- last: 2
+- saturday: 2
+- playground: 2
+
+Emoji 👒:
+- easter: 4
+- happy: 3
+- day: 2
+- fantastic: 1
+- event: 1
+
+Emoji 🦗:
+- something: 9
+- happens: 9
+- left: 9
+- lockstep: 9
+- help: 9
+
+Emoji 👜:
+- look: 3
+- 12odds: 3
+- zehhhlantro: 3
+- congrats: 3
+- got: 3
+
+Emoji 💮:
+- easter: 6
+- good: 6
+- happy: 5
+- morning: 4
+- see: 3
+
+Emoji ⚕:
+- like: 3
+- eggs: 2
+- substitute: 2
+- pharmacist: 2
+- happens: 2
+
+Emoji 💽:
+- easter: 2
+- coming: 1
+- happy: 1
+
+Emoji 🐿:
+- would: 4
+- amp: 2
+- blessed: 2
+- day: 2
+- every: 2
+
+Emoji 🕷:
+- mikey: 2
+- gt: 2
+- many: 1
+- truthfully: 1
+- declare: 1
+
+Emoji 👚:
+- arrived: 1
+- school: 1
+- gate: 1
+- 625: 1
+- tellacious1695: 1
+
+Emoji 🤕:
+- body: 2
+- role: 2
+- period: 2
+- like: 2
+- another: 2
+
+Emoji ⛩:
+- culture: 2
+- e: 2
+- today: 2
+- tomorrow: 2
+- worried: 2
+
+Emoji 🎎:
+- culture: 2
+- e: 2
+- grrrr: 1
+- jappan: 1
+- best: 1
+
+Emoji 🎏:
+- culture: 2
+- e: 2
+- grrrr: 1
+- jappan: 1
+- best: 1
+
+Emoji 🗼:
+- culture: 2
+- e: 2
+- grrrr: 1
+- jappan: 1
+- best: 1
+
+Emoji 🧒:
+- fuck: 2
+- say: 2
+- talks: 2
+- man: 1
+- kids: 1
+
+Emoji 🎣:
+- get: 2
+- worms: 2
+- weird: 2
+- fishes: 2
+- exactly: 1
+
+Emoji ✡:
+- exactly: 1
+- get: 1
+- pissed: 1
+- taking: 1
+- bait: 1
+
+Emoji ☯:
+- still: 2
+- easter: 2
+- thin: 2
+- ceramic: 2
+- bead: 2
+
+Emoji 🛁:
+- 2023: 1
+- 04: 1
+- 09: 1
+- 18: 1
+- 29: 1
+
+Emoji 🍥:
+- wts: 3
+- lfb: 3
+- txt: 3
+- ph: 3
+- family: 2
+
+Emoji 🤎:
+- love: 8
+- happy: 7
+- easter: 5
+- thing: 4
+- hope: 4
+
+Emoji 🔯:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 💘:
+- love: 22
+- happy: 12
+- easter: 11
+- good: 9
+- day: 9
+
+Emoji 🥏:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 🚋:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 🛞:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 🚕:
+- visit: 2
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+
+Emoji 🚡:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 🚃:
+- first: 1
+- thing: 1
+- wake: 1
+- bad: 1
+- dream: 1
+
+Emoji 🚙:
+- amp: 3
+- local: 2
+- leader: 2
+- first: 1
+- thing: 1
+
+Emoji 🚄:
+- 0: 3
+- 9: 2
+- pitch: 2
+- 1: 2
+- first: 1
+
+Emoji ⚧:
+- family: 4
+- lgbtq: 4
+- easter: 3
+- trans: 3
+- anti: 3
+
+Emoji 🔱:
+- even: 1
+- though: 1
+- one: 1
+- take: 1
+- arms: 1
+
+Emoji 😧:
+- one: 9
+- love: 7
+- released: 6
+- still: 5
+- pang: 4
+
+Emoji 🗡:
+- keep: 4
+- life: 4
+- jesus: 3
+- day: 3
+- love: 3
+
+Emoji 🫲:
+- new: 2
+- sure: 1
+- mate: 1
+- heading: 1
+- anywhere: 1
+
+Emoji 📀:
+- supports: 5
+- across: 5
+- click: 5
+- good: 4
+- day: 4
+
+Emoji 📡:
+- supports: 5
+- across: 5
+- click: 5
+- radical: 1
+- badwave: 1
+
+Emoji ♾:
+- love: 18
+- tuesday: 17
+- always: 16
+- good: 16
+- beautiful: 9
+
+Emoji ⌨:
+- apparent: 2
+- defective: 2
+- abduction: 2
+- without: 2
+- testing: 2
+
+Emoji 🟧:
+- chart: 3
+- points: 2
+- since: 1
+- last: 1
+- post: 1
+
+Emoji 💑:
+- love: 2
+- dgz: 2
+- breeding: 2
+- easter: 1
+- public: 1
+
+Emoji 🃏:
+- casino: 3
+- even: 2
+- amp: 2
+- x: 2
+- created: 2
+
+Emoji 🖥:
+- amp: 3
+- may: 3
+- range: 2
+- time: 2
+- 00: 2
+
+Emoji 🍶:
+- vodka: 1
+- amp: 1
+- roses: 1
+- pink: 1
+- suits: 1
+
+Emoji 🎴:
+- compete: 1
+- give: 1
+- thanks: 1
+- queen: 1
+- keep: 1
+
+Emoji 🤼:
+- back: 1
+- lgts: 1
+
+Emoji 📼:
+- watching: 6
+- back: 5
+- angel: 5
+- put: 1
+- enough: 1
+
+Emoji 🐒:
+- expect: 10
+- lower: 10
+- whale: 10
+- sh: 10
+- members: 10
+
+Emoji ❄:
+- feelings: 3
+- cabin: 2
+- know: 2
+- feeling: 2
+- day: 2
+
+Emoji 🤐:
+- like: 5
+- finish: 3
+- go: 3
+- 2023: 3
+- 04: 3
+
+Emoji ☣:
+- shawty: 1
+- said: 1
+- give: 1
+- idek: 1
+- giving: 1
+
+Emoji 🦠:
+- absolutely: 2
+- get: 2
+- ate: 2
+- qgopmagas: 1
+- republicans: 1
+
+Emoji 🔽:
+- new: 5
+- game: 5
+- alert: 4
+- range: 2
+- ev: 1
+
+Emoji 🔌:
+- local: 14
+- leader: 14
+- amp: 8
+- want: 7
+- saving: 7
+
+Emoji 🧪:
+- amp: 3
+- treatment: 2
+- real: 2
+- africa: 2
+- seen: 1
+
+Emoji ⌚:
+- w: 2
+- live: 2
+- saw: 1
+- dream: 1
+- wen: 1
+
+Emoji 🌝:
+- dmm: 2
+- want: 2
+- ship: 2
+- know: 2
+- smile: 1
+
+Emoji 🏊:
+- see: 1
+- lex: 1
+- proud: 1
+- wac: 1
+- leader: 1
+
+Emoji 🦬:
+- see: 1
+- lex: 1
+- proud: 1
+- wac: 1
+- leader: 1
+
+Emoji 🤚:
+- please: 3
+- need: 3
+- getting: 3
+- old: 3
+- habits: 3
+
+Emoji 🏦:
+- dmm: 6
+- u: 3
+- one: 2
+- leg: 2
+- amp: 2
+
+Emoji 🌗:
+- dmm: 2
+- listen: 1
+- music: 1
+- alllllllllllllllllllllllllllllll: 1
+- nite: 1
+
+Emoji 🌖:
+- 2: 3
+- dmm: 2
+- love: 2
+- amp: 2
+- thanks: 1
+
+Emoji 🌵:
+- work: 2
+- yard: 2
+- desert: 2
+- mix: 2
+- playlist: 2
+
+Emoji 🦁:
+- happy: 7
+- lmao: 4
+- jesus: 4
+- god: 3
+- dhoni: 3
+
+Emoji 🍯:
+- honey: 4
+- sweet: 3
+- lol: 3
+- perfect: 2
+- like: 2
+
+Emoji 🌰:
+- nuts: 2
+- keyboard: 1
+- kp: 1
+- cheese: 1
+- onion: 1
+
+Emoji 👸:
+- u: 7
+- love: 5
+- princess: 4
+- queen: 3
+- sweet: 3
+
+Emoji 📞:
+- easter: 2
+- good: 2
+- us: 2
+- celebrate: 1
+- brunch: 1
+
+Emoji 👃:
+- ehrooni: 9
+- love: 8
+- sweaty: 5
+- stinky: 5
+- wow: 4
+
+Emoji 🦀:
+- bout: 1
+- get: 1
+- crabs: 1
+
+Emoji 🦐:
+- get: 1
+- amp: 1
+- grits: 1
+- rn: 1
+- felices: 1
+
+Emoji 🍱:
+- life: 2
+- cute: 2
+- good: 2
+- stop: 1
+- loving: 1
+
+Emoji ♨:
+- friends: 2
+- thanks: 2
+- お疲れ様: 1
+- ㅅ: 1
+- ゆっくりと: 1
+
+Emoji 🤒:
+- love: 4
+- follow: 4
+- carbohydrates: 3
+- miss: 3
+- lui: 3
+
+Emoji 🖖:
+- forgiveness: 3
+- hurt: 3
+- happy: 3
+- day: 3
+- well: 2
+
+Emoji 🧮:
+- one: 7
+- pang: 4
+- crush: 4
+- wanna: 4
+- rock: 4
+
+Emoji 🪱:
+- weird: 5
+- worms: 4
+- fishes: 4
+- get: 2
+- eaten: 2
+
+Emoji 🛩:
+- looks: 1
+- yummy: 1
+- coming: 1
+
+Emoji 🐴:
+- mira: 4
+- mi: 4
+- mon: 4
+- amour: 4
+- felices: 4
+
+Emoji 🐩:
+- use: 2
+- nummy: 2
+- happy: 2
+- dogs: 2
+- forever: 2
+
+Emoji 💧:
+- easter: 3
+- amp: 3
+- people: 2
+- pt2: 2
+- agust: 2
+
+Emoji 🦙:
+- happy: 2
+- easter: 2
+- good: 1
+- morning: 1
+- saturday: 1
+
+Emoji 🥋:
+- nmp: 2
+- everton: 1
+- giving: 1
+- seandyche: 1
+- vibes: 1
+
+Emoji 🙉:
+- gt: 32
+- 2: 32
+- 6: 32
+- 4: 31
+- 3: 27
+
+Emoji ♏:
+- scorpio: 2
+- found: 1
+- sinead: 1
+- farrelly: 1
+- favorite: 1
+
+Emoji 🌪:
+- playing: 5
+- heart: 5
+- every: 5
+- play: 5
+- even: 5
+
+Emoji 🪩:
+- follow: 4
+- taylor: 3
+- time: 2
+- stolen: 2
+- icon: 2
+
+Emoji 🥻:
+- 11: 2
+- long: 2
+- describe: 1
+- love: 1
+- robbed: 1
+
+Emoji 🅰:
+- ever: 1
+- editing: 1
+- air: 1
+- track: 1
+- rain: 1
+
+Emoji 🎃:
+- easter: 4
+- happy: 3
+- dm: 2
+- right: 2
+- love: 2
+
+Emoji ♌:
+- leo: 4
+- know: 2
+- everytime: 1
+- see: 1
+- tl: 1
+
+Emoji 🫳:
+- hey: 1
+- wanna: 1
+- go: 1
+- easter: 1
+- hunting: 1
+
+Emoji 🫧:
+- live: 3
+- appear: 2
+- sooo: 2
+- handsome: 2
+- omfg: 2
+
+Emoji 🐁:
+- follow: 1
+- work: 1
+- wanna: 1
+- make: 1
+- world: 1
+
+Emoji 📯:
+- jesus: 6
+- gift: 4
+- salvation: 4
+- thank: 3
+- lmao: 2
+
+Emoji ®:
+- easter: 3
+- happy: 2
+- realtor: 2
+- heather: 2
+- mctaggart: 2
+
+Emoji 🚆:
+- join: 4
+- train: 2
+- money: 2
+- must: 2
+- made: 2
+
+Emoji 🐃:
+- women: 4
+- men: 3
+- changed: 2
+- 2days: 2
+- make: 2
+
+Emoji 🐗:
+- amp: 2
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+
+Emoji 🏛:
+- man: 2
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+
+Emoji 🦨:
+- amp: 4
+- mentally: 3
+- enough: 2
+- humanity: 2
+- dead: 2
+
+Emoji 🗃:
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+- text: 1
+
+Emoji 🗄:
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+- text: 1
+
+Emoji 🪤:
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+- text: 1
+
+Emoji 🦚:
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+- text: 1
+
+Emoji 🐡:
+- put: 1
+- enough: 1
+- even: 1
+- unlimited: 1
+- text: 1
+
+Emoji 🫨:
+- oh: 3
+- hell: 3
+- nah: 3
+- mandalorian: 3
+- epcot: 3
+
+Emoji 🧬:
+- love: 3
+- say: 2
+- want: 2
+- mean: 2
+- fans: 2
+
+Emoji ⛲:
+- love: 3
+- time: 2
+- identity: 2
+- name: 2
+- jesus: 1
+
+Emoji 🚽:
+- happy: 3
+- birthday: 3
+- tommy: 3
+- dont: 3
+- die: 3
+
+Emoji 🫁:
+- believe: 1
+- playstyle: 1
+- om4ga: 1
+
+Emoji 🏜:
+- lips: 2
+- make: 2
+- hope: 2
+- video: 2
+- noticed: 1
+
+Emoji 🦘:
+- funny: 1
+- visiting: 1
+- family: 1
+- oz: 1
+- moment: 1
+
+Emoji 🎛:
+- local: 4
+- leader: 4
+- mikey: 2
+- gt: 2
+- want: 2
+
+Emoji 🎸:
+- love: 6
+- music: 4
+- great: 4
+- happy: 4
+- day: 4
+
+Emoji 🍁:
+- day: 3
+- one: 2
+- good: 2
+- wonderful: 2
+- much: 2
+
+Emoji 🏪:
+- one: 1
+- miss: 1
+- 100: 1
+- opportunities: 1
+- take: 1
+
+Emoji 🦲:
+- live: 1
+- whole: 1
+- night: 1
+- baby: 1
+- new: 1
+
+Emoji 🎻:
+- love: 3
+- listen: 2
+- music: 2
+- alllllllllllllllllllllllllllllll: 2
+- nite: 2
+
+Emoji 🥁:
+- dm: 2
+- knows: 2
+- b: 2
+- listen: 1
+- music: 1
+
+Emoji 🪘:
+- amp: 3
+- real: 2
+- africa: 2
+- listen: 1
+- music: 1
+
+Emoji 🎷:
+- music: 3
+- got: 2
+- 200: 2
+- subscribers: 2
+- big: 2
+
+Emoji 🌆:
+- day: 2
+- listen: 1
+- music: 1
+- alllllllllllllllllllllllllllllll: 1
+- nite: 1
+
+Emoji 🌌:
+- popcorn: 4
+- love: 2
+- would: 2
+- kill: 2
+- porn: 2
+
+Emoji 🌠:
+- 00: 3
+- jo1: 2
+- happy: 2
+- easter: 2
+- listen: 1
+
+Emoji ☄:
+- listen: 1
+- music: 1
+- alllllllllllllllllllllllllllllll: 1
+- nite: 1
+- longggggggggggg: 1
+
+Emoji 🔝:
+- u: 6
+- funny: 4
+- first: 4
+- cool: 3
+- always: 3
+
+Emoji 🌩:
+- amp: 6
+- morning: 3
+- walk: 3
+- wind: 3
+- picked: 3
+
+Emoji 🐬:
+- worried: 6
+- mohammed: 3
+- getting: 3
+- bit: 3
+- gone: 3
+
+Emoji 🤰:
+- eren: 6
+- body: 6
+- mikasa: 6
+- dodges: 3
+- sword: 3
+
+Emoji 🛺:
+- wonderful: 1
+- angel: 1
+- queen: 1
+- alot: 1
+- bruh: 1
+
+Emoji 🥉:
+- u: 4
+- get: 4
+- said: 3
+- 1st: 2
+- time: 2
+
+Emoji 👗:
+- drop: 2
+- first: 2
+- dress: 2
+- teleport: 2
+- getting: 1
+
+Emoji 🆙:
+- well: 1
+- racing: 1
+- sick: 1
+- thinking: 1
+- 2: 1
+
+Emoji 🦈:
+- chapter1: 2
+- 4: 2
+- holy: 1
+- moly: 1
+- na: 1
+
+Emoji 🩳:
+- always: 1
+- screaming: 1
+- lost: 1
+- meanwhile: 1
+- struggles: 1
+
+Emoji 🦂:
+- nobody: 1
+- kane: 1
+- g: 1
+- rap: 1
+- big: 1
+
+Emoji 🐧:
+- thank: 3
+- awesome: 2
+- work: 2
+- penguins: 1
+- fire: 1
+
+Emoji 🪫:
+- seen: 1
+- like: 1
+- 4: 1
+- songs: 1
+- missing: 1
+
+Emoji 📐:
+- 0: 3
+- 9: 2
+- angle: 2
+- degrees: 2
+- pitch: 2
+
+Emoji 💇:
+- sho: 1
+- ways: 1
+
+Emoji 💈:
+- sho: 1
+- ways: 1
+
+Emoji 🏐:
+- reply: 1
+- using: 1
+- grow: 1
+- faster: 1
+
+Emoji 🎒:
+- standing: 1
+- geared: 1
+- plan: 1
+- camp: 1
+- turn: 1
+
+Emoji ⛺:
+- standing: 1
+- geared: 1
+- plan: 1
+- camp: 1
+- turn: 1
+
+Emoji 🤳:
+- listen: 2
+- want: 2
+- black: 2
+- ltd: 2
+- radio: 2
+
+Emoji 📏:
+- 0: 3
+- 9: 2
+- pitch: 2
+- 1: 2
+- kyle: 1
+
+Emoji 📛:
+- would: 1
+- never: 1
+
+Emoji 🧰:
+- discover: 1
+- 80: 1
+- free: 1
+- web: 1
+- tools: 1
+
+Emoji 🏕:
+- lot: 2
+- campfire: 1
+- officially: 1
+- available: 1
+- entire: 1
+
+Emoji 🌒:
+- 2: 6
+- amp: 4
+- good: 2
+- ever: 2
+- u: 2
+
+Emoji 👣:
+- yum: 12
+- easter: 8
+- good: 7
+- morning: 7
+- happy: 7
+
+Emoji 🐋:
+- seeing: 1
+
+Emoji 🦮:
+- blessings: 1
+- good: 1
+- karma: 1
+
+Emoji 🐙:
+- 10: 2
+- cuddle: 2
+- lap: 2
+- thanks: 1
+- yola: 1
+
+Emoji 📋:
+- leg: 2
+- operation: 2
+- urgent: 1
+- milo: 1
+- falling: 1
+
+Emoji 🌓:
+- supercali: 2
+- jo1: 1
+- の歌詞: 1
+- 歌詞検索サービス: 1
+- 歌ネット: 1
+
+Emoji 🥫:
+- food: 6
+- poor: 4
+- thank: 4
+- update: 2
+- homeless: 2
+
+Emoji ↔:
+- welcome: 2
+- happy: 2
+- evening: 2
+- hope: 2
+- great: 2
+
+Emoji ⏫:
+- review: 1
+- 165k: 1
+- red: 1
+- arrows: 1
+- past: 1
+
+Emoji 🖊:
+- story: 2
+- oldeus: 2
+- third: 1
+- winner: 1
+- check: 1
+
+Emoji 🚛:
+- amp: 7
+- tasks: 6
+- free: 3
+- trial: 3
+- clio: 3
+
+Emoji 📿:
+- easter: 3
+- jesus: 3
+- happy: 2
+- risen: 2
+- alleluia: 2
+
+Emoji 🕘:
+- goooooooood: 1
+- morning: 1
+- playboy: 1
+- bunnys: 1
+- today: 1
+
+Emoji 🦵:
+- u: 3
+- amp: 3
+- real: 2
+- africa: 2
+- goooooooood: 1
+
+Emoji 🥽:
+- 625: 2
+- front: 1
+- eyes: 1
+- tellacious2884: 1
+- hometown: 1
+
+Emoji 🕋:
+- basis: 1
+- false: 1
+- information: 1
+- come: 1
+- across: 1
+
+Emoji ⚜:
+- basis: 3
+
+Emoji 🫎:
+
+Emoji 🌜:
+- gt: 76
+- 4: 75
+- 5: 69
+- 3: 67
+- 1: 62
+
+Emoji 🔶:
+- happy: 2
+- weekend: 2
+- guys: 2
+- new: 2
+- drop: 2
+
+Emoji 🗒:
+- ii: 2
+- ych: 2
+- slots: 2
+- ใ: 2
+- 1k: 1
+
+Emoji 🩲:
+- muslims: 1
+- must: 1
+- protected: 1
+- gay: 1
+- gaymarriage: 1
+
+Emoji ⚱:
+- amp: 2
+- need: 2
+- oh: 2
+- ssshhh: 2
+- mfff: 2
+
+Emoji ☂:
+- scarameow: 1
+- meowtao: 1
+- doodles: 1
+- silly: 1
+
+Emoji 🐵:
+- gt: 28
+- 4: 28
+- 5: 28
+- 6: 27
+- 1: 20
+
+Emoji 🦢:
+- easter: 4
+- swan: 3
+- happy: 3
+- offline: 2
+- otsuteria: 2
+
+Emoji 🔼:
+- pussy: 3
+- wаnt: 3
+- dirtу: 3
+- talking: 3
+- msg: 3
+
+Emoji 🔟:
+- 0: 5
+- hop: 4
+- easter: 4
+- 2: 4
+- poked: 2
+
+Emoji 🧞:
+- happy: 2
+- joy: 2
+- positive: 2
+- live: 2
+- latest: 1
+
+Emoji 🪻:
+- happy: 7
+- easter: 5
+- beautiful: 4
+- day: 4
+- world: 3
+
+Emoji 🟫:
+
+Emoji 🧌:
+- get: 3
+- trying: 1
+- hold: 1
+- intouch: 1
+- come: 1
+
+Emoji 🎳:
+- world: 2
+- full: 2
+- stupid: 2
+- people: 2
+- banditos: 1
+
+Emoji 🛤:
+- world: 2
+- full: 2
+- stupid: 2
+- people: 2
+- banditos: 1
+
+Emoji ⛸:
+- nihl: 2
+- national: 2
+- 1: 2
+- 4: 2
+- final: 2
+
+Emoji ⛅:
+- expect: 4
+- regular: 4
+- 2: 3
+- dead: 2
+- sorry: 2
+
+Emoji 👴:
+- keep: 2
+- pretty: 1
+- much: 1
+- granddad: 1
+- point: 1
+
+Emoji 📔:
+- ola: 1
+- need: 1
+- friends: 1
+- ss: 1
+- atz: 1
+
+Emoji 🦟:
+- going: 2
+- summer: 2
+- haunt: 1
+- know: 1
+- forgetting: 1
+
+Emoji ⚛:
+- lfg: 1
+- keep: 1
+- getting: 1
+- beta: 1
+- fennecs: 1
+
+Emoji 🦑:
+- monsters: 2
+- 150: 1
+- monster: 1
+- ギョロゲソル: 1
+- giologesol: 1
+
+Emoji ⛹:
+- take: 2
+- da: 2
+- amp: 2
+- u: 2
+- closest: 1
+
+Emoji 🔏:
+- need: 1
+- advice: 1
+- mind: 1
+- business: 1
+- next: 1
+
+Emoji 🦥:
+- april: 4
+- sister: 3
+- leader: 2
+- main: 2
+- vocalist: 2
+
+Emoji 🥄:
+- 2: 1
+- giving: 1
+- mukbang: 1
+- multo: 1
+- paid: 1
+
+Emoji 🦡:
+- 11: 2
+- long: 2
+- 2023: 1
+- 04: 1
+- 19: 1
+
+Emoji 🫖:
+- 11: 2
+- long: 2
+- get: 2
+- name: 2
+- means: 2
+
+Emoji 🐨:
+- 50: 4
+- rm: 3
+- ok: 2
+- para: 2
+- hacer: 2
+
+Emoji 🚲:
+- pig: 2
+- choose: 1
+- emoji: 1
+- bcs: 1
+- colour: 1
+
+Emoji 👝:
+- year: 2
+- know: 1
+- 1: 1
+- since: 1
+- ukraine: 1
+
+Emoji 🦩:
+- dj: 2
+- plays: 2
+- jam: 2
+- god: 2
+- bless: 2
+
+Emoji 🪽:
+- dj: 6
+- plays: 6
+- jam: 6
+- 末期症状です: 1
+- www: 1
+
+Emoji 🥦:
+- easter: 2
+- amp: 2
+- high: 2
+- grade: 2
+- mimosa: 2
+
+Emoji 🔧:
+- easter: 2
+- hoppy: 1
+- g5: 1
+- customs: 1
+- eggs: 1
+
+Emoji 🦓:
+- sorry: 2
+- alex: 2
+- give: 2
+- actually: 2
+- pants: 2
+
+Emoji 🛏:
+- w: 2
+- amp: 2
+- mission: 1
+- successful: 1
+- happy: 1
+
+Emoji 🗝:
+- know: 1
+- keys: 1
+- limited: 1
+- time: 1
+- today: 1
+
+Emoji 🦪:
+- happy: 1
+- easter: 1
+
+Emoji 🛻:
+- local: 2
+- leader: 2
+- want: 1
+- saving: 1
+- money: 1
+
+Emoji 🪟:
+- local: 2
+- leader: 2
+- size: 2
+- want: 1
+- saving: 1
+
+Emoji 🏢:
+- riyadh: 12
+- available: 12
+- massager: 6
+- russian: 6
+- arab: 6
+
+Emoji 👡:
+- sandals: 2
+- pleasure: 1
+- would: 1
+- also: 1
+- glide: 1
+
+Emoji ⛽:
+- pump: 3
+- ern: 2
+- xvs: 2
+- prom: 2
+- 50: 2
+
+Emoji 🎲:
+- 1: 8
+- dm: 8
+- mode: 8
+- congrats: 7
+- claim: 7
+
+Emoji 🌡:
+- week: 2
+- look: 2
+- c: 2
+- us: 2
+- first: 2
+
+Emoji 🧤:
+- wow: 3
+- aarons: 1
+- ramsdale: 1
+- made: 1
+- two: 1
+
+Emoji 🤱:
+- love: 1
+- natural: 1
+- breasts: 1
+- hang: 1
+- hard: 1
+
+Emoji 🙍:
+- hot: 1
+- single: 1
+
+Emoji 🧨:
+- im: 1
+- saying: 1
+- janella: 1
+- hands: 1
+- congratulations: 1
+
+Emoji 🤾:
+- getting: 1
+- money: 1
+- idc: 1
+- fucking: 1
+- exes: 1
+
+Emoji 🪼:
+- soy: 1
+- furre: 1
+
+Emoji ♒:
+- moon: 2
+- sign: 1
+- amp: 1
+- last: 1
+- saved: 1
+
+Emoji 🦦:
+- bias: 3
+- fav: 3
+- well: 2
+- every: 2
+- happy: 2
+
+Emoji 🕳:
+- equal: 4
+- like: 3
+- crossroad: 2
+- wants: 2
+- treatment: 2
+
+Emoji 🚭:
+- quit: 1
+- 2018: 1
+- cold: 1
+- turkey: 1
+- 30: 1
+
+Emoji ◽:
+- equal: 2
+- crossroad: 1
+- wants: 1
+- treatment: 1
+- justice: 1
+
+Emoji 🏗:
+- gt: 7
+- efficiency: 2
+- 2023: 1
+- 04: 1
+- 09: 1
+
+Emoji 🧃:
+- hope: 2
+- 2023: 1
+- 04: 1
+- 09: 1
+- 19: 1
+
+Emoji 🧫:
+- 2023: 1
+- 04: 1
+- 10: 1
+- 22: 1
+- 11: 1
+
+Emoji 🎅:
+- amp: 3
+- parents: 2
+- easter: 2
+- baskets: 2
+- one: 2
+
+Emoji 🫷:
+- everyday: 1
+- going: 1
+- good: 1
+- day: 1
+- cuz: 1
+
+Emoji 📴:
+- go: 2
+- anymore: 2
+- 5: 2
+- work: 2
+- church: 2
+
+Emoji 🫏:
+- trans: 1
+
+Emoji 🚓:
+- told: 2
+- starts: 1
+- stuff: 1
+- anybody: 1
+- crew: 1
+
+Emoji 〰:
+- おはよう: 4
+- 真歩: 4
+- 真歩ぴょん: 4
+- 可愛い: 4
+- 好きだよ: 4
+
+Emoji 🥮:
+- congrats: 1
+- safe: 1
+- family: 1
+- party: 1
+- lots: 1
+
+Emoji 🪅:
+- happy: 5
+- hope: 3
+- easter: 2
+- birthday: 2
+- john: 2
+
+Emoji ♋:
+- tight: 1
+- diana: 1
+- sun: 1
+- conjunction: 1
+- nature: 1
+
+Emoji ♈:
+- happy: 5
+- birthday: 5
+- day: 5
+- feels: 3
+- good: 3
+
+Emoji 🐽:
+- easter: 5
+- wonderful: 3
+- happy: 3
+- frens: 3
+- hehe: 2
+
+Emoji 👤:
+- like: 3
+- leader: 2
+- members: 2
+- follow: 2
+- retweet: 2
+
+Emoji 🏧:
+- w: 6
+- amp: 6
+- 2: 3
+- entire: 3
+- trueeviltrashytrump: 3
+
+Emoji 🍠:
+- hear: 4
+- silence: 2
+- way: 2
+- home: 2
+- see: 2
+
+Emoji 🏙:
+- city: 3
+- game: 2
+- tee: 2
+- parade: 2
+- style: 2
+
+Emoji 🙎:
+- used: 2
+- school: 2
+- still: 2
+- brothers: 1
+- play: 1
+
+Emoji ◀:
+- mу: 1
+- namе: 1
+- jоey: 1
+- seаrсh: 1
+- hоt: 1
+
+Emoji 🧲:
+- reply: 1
+- let: 1
+- grow: 1
+
+Emoji ↪:
+- wеry: 2
+- mе: 2
+- му: 1
+- namе: 1
+- саthlеen: 1
+
+Emoji 🍂:
+- happy: 10
+- made: 9
+- 𝐹𝓁𝑜𝓌𝑒𝓇: 8
+- 𝒟𝑒𝓁𝒾𝓋𝑒𝓇𝓎: 8
+- 𝐹𝑜𝓇: 8
+
+Emoji ⏭:
+- mу: 3
+- аt: 2
+- name: 1
+- diаnа: 1
+- sеаrсh: 1
+
+Emoji ⏮:
+- mу: 3
+- аt: 2
+- name: 1
+- diаnа: 1
+- sеаrсh: 1
+
+Emoji 🦭:
+- live: 4
+- 19: 4
+- 30: 4
+- grooving: 2
+- mamagon: 2
+
+Emoji ☪:
+- false: 1
+- information: 1
+- come: 1
+- across: 1
+- dislike: 1
+
+Emoji 👞:
+- body: 1
+- knows: 1
+- 750: 1
+- million: 1
+- dollars: 1
+
+Emoji 📙:
+- birthday: 2
+- first: 2
+- hey: 1
+- folks: 1
+- meen: 1
+
+Emoji 🐮:
+- actually: 2
+- food: 2
+- body: 2
+- makes: 2
+- face: 2
+
+Emoji 🪑:
+- keeping: 1
+- close: 1
+- watch: 1
+- court: 1
+- case: 1
+
+Emoji 🪰:
+- kkk: 1
+- care: 1
+- think: 1
+- leader: 1
+- pack: 1
+
+Emoji 🧻:
+- true: 1
+- romance: 1
+- transcends: 1
+- time: 1
+- space: 1
+
+Emoji 🐄:
+- love: 2
+- naah: 1
+- dumbest: 1
+- photoshop: 1
+- fuckup: 1
+
+Emoji 🐫:
+- delightful: 2
+- leisure: 2
+- surfing: 2
+- morocco: 2
+- watched: 2
+
+Emoji 🪧:
+- amp: 2
+- needs: 1
+- addressing: 1
+- immediately: 1
+- tories: 1
+
+Emoji ⚓:
+- wish: 2
+- happy: 2
+- easter: 2
+- even: 2
+- side: 2
+
+Emoji Ⓜ:
+- happy: 2
+- easter: 2
+
+Emoji ✉:
+- wishing: 1
+- wonderful: 1
+- easter: 1
+- weekend: 1
+- families: 1
+
+Emoji 🌥:
+- bonjour: 1
+- merci: 1
+- blessed: 1
+- easter: 1
+
+Emoji 🦏:
+- scientists: 8
+- earth: 8
+- angels: 8
+- everything: 8
+- save: 8
+
+Emoji 🪿:
+- checked: 1
+- alas: 1
+- often: 1
+- enough: 1
+- live: 1
+
+Emoji 📧:
+- heather: 2
+- mctaggart: 2
+- hoppy: 1
+- easter: 1
+- realtor: 1
+
+Emoji 🤶:
+- rock: 2
+- songs: 2
+- ur: 1
+- tnbc: 1
+- easter: 1
+
+Emoji 🧖:
+- easter: 2
+- special: 2
+- celebrate: 2
+- chocolate: 2
+- smoosh: 2
+
+Emoji 🕉:
+- 2: 9
+- amp: 7
+- good: 3
+- ever: 3
+- u: 3
+
+Emoji 🖨:
+- dedollarisation: 1
+- former: 1
+- vp: 1
+- mike: 1
+- pence: 1
+
+Emoji ✏:
+- l: 2
+- totally: 1
+- fab: 1
+- easter: 1
+- basket: 1
+
+Emoji 🚿:
+- heyyy: 2
+- shower: 2
+- cheers: 1
+- today: 1
+- luv: 1
+
+Emoji 🛹:
+- face: 1
+- also: 1
+- clever: 1
+- always: 1
+- able: 1
+
+Emoji 🪨:
+- amp: 2
+- day: 2
+- dumber: 1
+- lamer: 1
+- l: 1
+
+Emoji 🎡:
+- boogity: 3
+- night: 2
+- solana: 2
+- game: 1
+- time: 1
+
+Emoji 👭:
+- dr: 6
+- sweet: 6
+- friend: 6
+- angela: 4
+- ugmm: 2
+
+Emoji 🚎:
+- into1__patrick: 2
+- patrick: 1
+- ig: 1
+- stories: 1
+- update: 1
+
+Emoji ♉:
+- claiming: 1
+- love: 1
+- humility: 1
+- gratitude: 1
+- meannnn: 1
+
+Emoji 🧶:
+- spy: 2
+- come: 1
+- see: 1
+- kiki: 1
+- ᴿᴴᴾ: 1
+
+Emoji 🤹:
+- keep: 2
+- blessed: 1
+- wise: 1
+- things: 1
+- lot: 1
+
+Emoji 🏓:
+- thank: 1
+- bro: 1
+
+Emoji 👢:
+- worry: 1
+- scared: 1
+- fallin: 1
+- love: 1
+- anyway: 1
+
+Emoji ⏯:
+- worry: 1
+- scared: 1
+- fallin: 1
+- love: 1
+- anyway: 1
+
+Emoji 🛟:
+- two: 1
+- lives: 1
+- going: 1
+- wasted: 1
+- tomorrow: 1
+
+Emoji 🫱:
+- new: 2
+- better: 1
+- 2k: 1
+- ready: 1
+- every: 1
+
+Emoji 🌋:
+- literally: 1
+- zooms: 1
+- bali: 1
+- next: 1
+- volcanos: 1
+
+Emoji 🕔:
+- today: 1
+- day: 1
+- 5pm: 1
+- est: 1
+- join: 1
+
+Emoji 🗞:
+- showing: 1
+- world: 1
+- clowns: 1
+- massive: 1
+- respect: 1
+
+Emoji 🪛:
+- ooohhh: 1
+- yeaaaaah: 1
+- rate: 1
+- build: 1
+- p: 1
+
+Emoji 🎋:
+- today: 4
+- stream: 2
+- start: 2
+- streeeaaming: 2
+- continuing: 2
+
+Emoji 🟰:
+- blue: 2
+- checkmark: 2
+- symbol: 1
+- authority: 1
+- importance: 1
+
+Emoji 🦷:
+- teeth: 6
+- ugh: 6
+- hate: 3
+- three: 3
+- crowns: 3
+
+Emoji 🥾:
+- blue: 1
+- outfit: 1
+- ﾟ: 1
+- 靴紐と糸の自己主張を激しくしてしまいがち: 1
+
+Emoji 🌂:
+- got: 1
+- legs: 1
+- everything: 1
+- plus: 1
+
+Emoji 〽:
+- yes: 3
+- follow: 1
+- way: 1
+- gaining: 1
+- rt: 1
+
+Emoji 🕚:
+- girl: 3
+- baby: 2
+- make: 2
+- sun: 1
+- moon: 1
+
+Emoji 🪬:
+- hello: 2
+- gorgeous: 2
+- surely: 2
+- place: 2
+- name: 2
+
+Emoji 🏩:
+- riyadh: 6
+- available: 6
+- massager: 3
+- russian: 3
+- arab: 3
+
+Emoji 🩰:
+- man: 1
+- look: 1
+- fly: 1
+- everything: 1
+- put: 1
+
+Emoji 👓:
+- 11: 1
+- h: 1
+- first: 1
+- lady: 1
+- erdogan: 1
+
+Emoji 🪵:
+- staff: 2
+- large: 1
+- soon: 1
+- major: 1
+- cut: 1
+
+Emoji 🧴:
+- heyy: 1
+- protected: 1
+
+Emoji 📗:
+- get: 2
+- stuff: 2
+- break: 2
+- busy: 1
+- house: 1
+
+Emoji 🐊:
+
+Emoji 💏:
+- love: 6
+- god: 4
+- yes: 4
+- wld: 2
+- talk: 2
+
+Emoji 🧉:
+- one: 1
+- functional: 1
+
+Emoji 💾:
+- remember: 1
+- sound: 1
+- 56k: 1
+- modem: 1
+- 20: 1
+
+Emoji 🌘:
+
+Emoji 🛢:
+- nft: 2
+- kubz: 2
+- whale: 1
+- mint: 1
+- minter: 1
+
+Emoji 🔂:
+- baby: 2
+- millionaire: 1
+
+Emoji 🐪:
+- delightful: 1
+- leisure: 1
+- surfing: 1
+- morocco: 1
+- watched: 1
+
+Emoji 🕍:
+- self: 1
+- published: 1
+- first: 1
+- book: 1
+- origin: 1
+
+Emoji 🚌:
+- sunoo: 2
+- visit: 2
+- chelmsford: 2
+- hi: 1
+- sunnies: 1
+
+Emoji 🦶:
+- happy: 1
+- toesday: 1
+- like: 1
+- toe: 1
+- rings: 1
+
+Emoji 🚢:
+- summer: 6
+- destinations: 4
+- anthem: 4
+- seas: 4
+- unforgettable: 2
+
+Emoji 🛫:
+- 5: 1
+- weeks: 1
+- friday: 1
+- holiday: 1
+- come: 1
+
+Emoji 🐭:
+- ep: 2
+- streaming: 1
+- plans: 1
+- 4: 1
+- 1: 1
+
+Emoji 🈵:
+- words: 1
+- images: 1
+
+Emoji 🏇:
+- first: 1
+- meeting: 1
+- season: 1
+
+Emoji 🧥:
+- good: 4
+- day: 4
+- morning: 2
+- sleep: 2
+- well: 2
+
+Emoji ⤴:
+- league: 2
+- good: 2
+- happy: 2
+- top: 1
+- 5: 1
+
+Emoji 🪕:
+- left: 1
+- overs: 1
+- woodstock: 1
+
+Emoji 🫕:
+- 2023: 1
+- 04: 1
+- 10: 1
+- 21: 1
+- 26: 1
+
+Emoji 🚊:
+- chelmsford: 2
+- currently: 1
+- rail: 1
+- replacement: 1
+- coach: 1
+
+Emoji 🚇:
+- world: 1
+- frfr: 1
