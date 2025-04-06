@@ -35,7 +35,7 @@ The project uses the "Tweets With Emoji (EricWang1011)" dataset from Kaggle, con
 ## Analysis Phases
 
 1. Data Preprocessing
-2. Exploratory Data Analysis
+2. EDA
 3. Machine Learning Analysis
 4. Time Series Forecasting
 5. Visualization Dashboard
