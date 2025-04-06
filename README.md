@@ -12,7 +12,7 @@ emoji_language_analysis/
 ├── src/               # Source code
 ├── notebooks/         # Jupyter notebooks for analysis
 ├── docs/             # Documentation
-└── tests/            # Unit tests
+└── tests/            
 ```
 
 ## Setup
